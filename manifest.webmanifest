@@ -1,0 +1,21 @@
+{
+  "name": "Utah Cocktail Academy",
+  "short_name": "Cocktail Academy",
+  "description": "Local-first cocktail training, recipe study, practice scenarios, and a configurable Utah alcohol-law reference.",
+  "id": "./",
+  "start_url": "./#home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#151312",
+  "theme_color": "#151312",
+  "orientation": "any",
+  "categories": ["education", "food", "productivity"],
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
