@@ -1,0 +1,198 @@
+{
+  "glassware": [
+    {
+      "id": "rocks",
+      "name": "Rocks glass",
+      "bestFor": "Short, sturdy tumbler for small drinks on standard ice.",
+      "temperatureEffect": "Moderate surface area supports aroma; short height suits compact portions.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Moderate surface area supports aroma; short height suits compact portions.",
+      "presentationEffect": "Short, sturdy tumbler for small drinks on standard ice.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    },
+    {
+      "id": "double-rocks",
+      "name": "Double rocks glass",
+      "bestFor": "Wider rocks glass for large cubes, crushed ice, or longer short drinks.",
+      "temperatureEffect": "Large opening increases aroma and accommodates substantial ice.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Large opening increases aroma and accommodates substantial ice.",
+      "presentationEffect": "Wider rocks glass for large cubes, crushed ice, or longer short drinks.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    },
+    {
+      "id": "coupe",
+      "name": "Coupe",
+      "bestFor": "Stemmed bowl for drinks served up.",
+      "temperatureEffect": "Stem protects temperature and the curved bowl limits spills better than a wide martini V.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Stem protects temperature and the curved bowl limits spills better than a wide martini V.",
+      "presentationEffect": "Stemmed bowl for drinks served up.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    },
+    {
+      "id": "martini",
+      "name": "Martini or cocktail glass",
+      "bestFor": "V-shaped stemmed glass for up drinks.",
+      "temperatureEffect": "Wide surface releases aroma quickly but warms and spills easily.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Wide surface releases aroma quickly but warms and spills easily.",
+      "presentationEffect": "V-shaped stemmed glass for up drinks.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    },
+    {
+      "id": "nick-nora",
+      "name": "Nick and Nora",
+      "bestFor": "Small tulip-shaped stemmed cocktail glass.",
+      "temperatureEffect": "Concentrates aroma and supports realistic service volume.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Concentrates aroma and supports realistic service volume.",
+      "presentationEffect": "Small tulip-shaped stemmed cocktail glass.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    },
+    {
+      "id": "collins",
+      "name": "Collins glass",
+      "bestFor": "Tall narrow glass for sparkling long drinks.",
+      "temperatureEffect": "Narrow shape preserves carbonation and supports a spear or stacked cubes.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Narrow shape preserves carbonation and supports a spear or stacked cubes.",
+      "presentationEffect": "Tall narrow glass for sparkling long drinks.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    },
+    {
+      "id": "highball",
+      "name": "Highball glass",
+      "bestFor": "Tall general-purpose glass for spirit-and-mixer drinks.",
+      "temperatureEffect": "Balances ice, mixer volume, and carbonation.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Balances ice, mixer volume, and carbonation.",
+      "presentationEffect": "Tall general-purpose glass for spirit-and-mixer drinks.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    },
+    {
+      "id": "pint",
+      "name": "Pint glass",
+      "bestFor": "Durable beer and mixed-drink glass.",
+      "temperatureEffect": "Large capacity and broad opening; serving limits still depend on beverage category.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Large capacity and broad opening; serving limits still depend on beverage category.",
+      "presentationEffect": "Durable beer and mixed-drink glass.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    },
+    {
+      "id": "wine",
+      "name": "Wine glass",
+      "bestFor": "Stemmed bowl for still wine or spritzes.",
+      "temperatureEffect": "Bowl captures aroma while stem limits warming.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Bowl captures aroma while stem limits warming.",
+      "presentationEffect": "Stemmed bowl for still wine or spritzes.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    },
+    {
+      "id": "flute",
+      "name": "Champagne flute",
+      "bestFor": "Tall narrow sparkling-wine glass.",
+      "temperatureEffect": "Reduces surface area to preserve bubbles.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Reduces surface area to preserve bubbles.",
+      "presentationEffect": "Tall narrow sparkling-wine glass.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    },
+    {
+      "id": "champagne-coupe",
+      "name": "Champagne coupe",
+      "bestFor": "Shallow stemmed sparkling or cocktail glass.",
+      "temperatureEffect": "Elegant but rapidly releases carbonation.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Elegant but rapidly releases carbonation.",
+      "presentationEffect": "Shallow stemmed sparkling or cocktail glass.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    },
+    {
+      "id": "copper-mug",
+      "name": "Copper mug",
+      "bestFor": "Metal mug commonly used for mules.",
+      "temperatureEffect": "Conducts cold strongly to the hand and lip; use food-safe lined vessels.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Conducts cold strongly to the hand and lip; use food-safe lined vessels.",
+      "presentationEffect": "Metal mug commonly used for mules.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    },
+    {
+      "id": "hurricane",
+      "name": "Hurricane glass",
+      "bestFor": "Curved tall tropical glass.",
+      "temperatureEffect": "Large capacity suits blended and crushed-ice drinks, but fill line must be controlled.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Large capacity suits blended and crushed-ice drinks, but fill line must be controlled.",
+      "presentationEffect": "Curved tall tropical glass.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    },
+    {
+      "id": "shot",
+      "name": "Shot glass",
+      "bestFor": "Small glass for measured single-service portions.",
+      "temperatureEffect": "Makes quantity visible; legal portions still require proper dispensing.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Makes quantity visible; legal portions still require proper dispensing.",
+      "presentationEffect": "Small glass for measured single-service portions.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    },
+    {
+      "id": "irish-coffee",
+      "name": "Irish coffee glass",
+      "bestFor": "Heat-safe handled glass for warm drinks.",
+      "temperatureEffect": "Shows layers while protecting hands; preheat gradually to avoid thermal shock.",
+      "dilutionEffect": "The glass does not create dilution by itself; its size and ice compatibility influence how fast ice melts.",
+      "aromaEffect": "Shows layers while protecting hands; preheat gradually to avoid thermal shock.",
+      "presentationEffect": "Heat-safe handled glass for warm drinks.",
+      "servingVolumeNote": "Use the establishment's approved fill line and recipe; glass capacity is not permission to increase alcohol."
+    }
+  ],
+  "ice": [
+    {
+      "id": "standard-cubes",
+      "name": "Standard cubes",
+      "bestFor": "General shaking and on-the-rocks service.",
+      "effect": "Balanced chilling and dilution when hard, cold, and abundant."
+    },
+    {
+      "id": "large-cube",
+      "name": "Large cube",
+      "bestFor": "Spirit-forward drinks in a rocks glass.",
+      "effect": "Slower dilution and strong presentation."
+    },
+    {
+      "id": "crushed",
+      "name": "Crushed ice",
+      "bestFor": "Juleps, swizzles, and tropical drinks.",
+      "effect": "Very rapid chilling and ongoing dilution; requires a full crown."
+    },
+    {
+      "id": "pebble",
+      "name": "Pebble ice",
+      "bestFor": "Tropical and swizzled drinks.",
+      "effect": "Fast chilling with easy sipping and controlled packing."
+    },
+    {
+      "id": "spear",
+      "name": "Ice spear",
+      "bestFor": "Collins and highball glasses.",
+      "effect": "Low surface area and clean presentation in tall glasses."
+    },
+    {
+      "id": "up",
+      "name": "No ice / up",
+      "bestFor": "Cocktails chilled during mixing and strained.",
+      "effect": "Temperature rises after service, so glass chilling and prompt delivery matter."
+    },
+    {
+      "id": "blended",
+      "name": "Blended ice",
+      "bestFor": "Frozen drinks.",
+      "effect": "Ice becomes part of final texture and volume; measure it."
+    }
+  ]
+}

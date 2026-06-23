@@ -1,0 +1,1632 @@
+[
+  {
+    "id": "absinthe",
+    "name": "Absinthe",
+    "category": "Liqueurs and amari",
+    "whatItIs": "Absinthe is used in bar service as part of the liqueurs and amari category.",
+    "flavorProfile": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "typicalFunction": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "commonCocktails": [
+      "Sazerac"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store tightly closed away from heat and direct light; refrigerate low-proof products when the producer directs.",
+    "shelfLifeAfterOpening": "Often months to years, but proof, sugar, dairy, and fresh ingredients change the answer.",
+    "refrigerationUsuallyNeeded": "Check producer guidance",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Potential secondary alcoholic flavoring only when lawfully designated and handled",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "agave-nectar",
+    "name": "Agave nectar",
+    "category": "Syrups and sweeteners",
+    "whatItIs": "Agave nectar is used in bar service as part of the syrups and sweeteners category.",
+    "flavorProfile": "Sweetness, body, and flavor integration.",
+    "typicalFunction": "Sweetness, body, and flavor integration.",
+    "commonCocktails": [
+      "Tommy’s Margarita"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate house-made syrups in sanitized dated containers.",
+    "shelfLifeAfterOpening": "Often 1–4 weeks depending on sugar concentration, acidity, sanitation, and ingredients.",
+    "refrigerationUsuallyNeeded": "Usually",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic syrup/sweetener",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "agave-syrup",
+    "name": "Agave syrup",
+    "category": "Syrups and sweeteners",
+    "whatItIs": "Agave syrup is used in bar service as part of the syrups and sweeteners category.",
+    "flavorProfile": "Sweetness, body, and flavor integration.",
+    "typicalFunction": "Sweetness, body, and flavor integration.",
+    "commonCocktails": [
+      "Margarita"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate house-made syrups in sanitized dated containers.",
+    "shelfLifeAfterOpening": "Often 1–4 weeks depending on sugar concentration, acidity, sanitation, and ingredients.",
+    "refrigerationUsuallyNeeded": "Usually",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic syrup/sweetener",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "aged-rum",
+    "name": "Aged rum",
+    "category": "Base spirits",
+    "whatItIs": "Aged rum is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Mai Tai"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "amaretto",
+    "name": "Amaretto",
+    "category": "Liqueurs and amari",
+    "whatItIs": "Amaretto is used in bar service as part of the liqueurs and amari category.",
+    "flavorProfile": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "typicalFunction": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "commonCocktails": [
+      "French Connection",
+      "Amaretto Sour"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store tightly closed away from heat and direct light; refrigerate low-proof products when the producer directs.",
+    "shelfLifeAfterOpening": "Often months to years, but proof, sugar, dairy, and fresh ingredients change the answer.",
+    "refrigerationUsuallyNeeded": "Check producer guidance",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Verify classification with Utah DABS or management",
+    "classificationConfidence": "low",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "aromatic-bitters",
+    "name": "Aromatic bitters",
+    "category": "Bitters",
+    "whatItIs": "Aromatic bitters is used in bar service as part of the bitters category.",
+    "flavorProfile": "Highly concentrated aromatic seasoning used in dashes.",
+    "typicalFunction": "Highly concentrated aromatic seasoning used in dashes.",
+    "commonCocktails": [
+      "Old Fashioned",
+      "Manhattan",
+      "Champagne Cocktail",
+      "Rob Roy"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store tightly closed away from heat and direct light; refrigerate low-proof products when the producer directs.",
+    "shelfLifeAfterOpening": "Often months to years, but proof, sugar, dairy, and fresh ingredients change the answer.",
+    "refrigerationUsuallyNeeded": "Check producer guidance",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Bitters; legal treatment can depend on product and use",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "blanco-tequila",
+    "name": "Blanco tequila",
+    "category": "Base spirits",
+    "whatItIs": "Blanco tequila is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Margarita",
+      "Tommy’s Margarita",
+      "Paloma",
+      "Tequila Sunrise",
+      "Long Island Iced Tea",
+      "Adios-Style Drink"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Verify classification with Utah DABS or management",
+    "classificationConfidence": "low",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "blue-orange-liqueur",
+    "name": "Blue orange liqueur",
+    "category": "Liqueurs and amari",
+    "whatItIs": "Blue orange liqueur is used in bar service as part of the liqueurs and amari category.",
+    "flavorProfile": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "typicalFunction": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "commonCocktails": [
+      "Adios-Style Drink"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store tightly closed away from heat and direct light; refrigerate low-proof products when the producer directs.",
+    "shelfLifeAfterOpening": "Often months to years, but proof, sugar, dairy, and fresh ingredients change the answer.",
+    "refrigerationUsuallyNeeded": "Check producer guidance",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Potential secondary alcoholic flavoring only when lawfully designated and handled",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "bourbon",
+    "name": "Bourbon",
+    "category": "Base spirits",
+    "whatItIs": "Bourbon is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Whiskey Sour",
+      "Mint Julep",
+      "Amaretto Sour"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "bourbon-or-rye-whiskey",
+    "name": "Bourbon or rye whiskey",
+    "category": "Base spirits",
+    "whatItIs": "Bourbon or rye whiskey is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Old Fashioned",
+      "Boulevardier"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "brandy",
+    "name": "Brandy",
+    "category": "Base spirits",
+    "whatItIs": "Brandy is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Brandy Alexander"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "brown-sugar-syrup",
+    "name": "Brown sugar syrup",
+    "category": "Syrups and sweeteners",
+    "whatItIs": "Brown sugar syrup is used in bar service as part of the syrups and sweeteners category.",
+    "flavorProfile": "Sweetness, body, and flavor integration.",
+    "typicalFunction": "Sweetness, body, and flavor integration.",
+    "commonCocktails": [
+      "Irish Coffee"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate house-made syrups in sanitized dated containers.",
+    "shelfLifeAfterOpening": "Often 1–4 weeks depending on sugar concentration, acidity, sanitation, and ingredients.",
+    "refrigerationUsuallyNeeded": "Usually",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic syrup/sweetener",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "cacha-a",
+    "name": "Cachaça",
+    "category": "Base spirits",
+    "whatItIs": "Cachaça is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Caipirinha"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "citrus-vodka",
+    "name": "Citrus vodka",
+    "category": "Base spirits",
+    "whatItIs": "Citrus vodka is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Cosmopolitan"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "coffee-liqueur",
+    "name": "Coffee liqueur",
+    "category": "Liqueurs and amari",
+    "whatItIs": "Coffee liqueur is used in bar service as part of the liqueurs and amari category.",
+    "flavorProfile": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "typicalFunction": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "commonCocktails": [
+      "Espresso Martini",
+      "White Russian",
+      "Black Russian"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store tightly closed away from heat and direct light; refrigerate low-proof products when the producer directs.",
+    "shelfLifeAfterOpening": "Often months to years, but proof, sugar, dairy, and fresh ingredients change the answer.",
+    "refrigerationUsuallyNeeded": "Check producer guidance",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Potential secondary alcoholic flavoring only when lawfully designated and handled",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "cognac",
+    "name": "Cognac",
+    "category": "Base spirits",
+    "whatItIs": "Cognac is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "French Connection",
+      "Champagne Cocktail"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "cognac-or-brandy",
+    "name": "Cognac or brandy",
+    "category": "Base spirits",
+    "whatItIs": "Cognac or brandy is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Sidecar"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "cola",
+    "name": "Cola",
+    "category": "Mixers",
+    "whatItIs": "Cola is used in bar service as part of the mixers category.",
+    "flavorProfile": "Length, carbonation, temperature, bitterness, sweetness, or savory body.",
+    "typicalFunction": "Length, carbonation, temperature, bitterness, sweetness, or savory body.",
+    "commonCocktails": [
+      "Cuba Libre",
+      "Long Island Iced Tea"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Keep sealed; refrigerate opened perishable or carbonated mixers.",
+    "shelfLifeAfterOpening": "Carbonation falls quickly after opening; coffee should be made and held under workplace policy.",
+    "refrigerationUsuallyNeeded": "Often after opening",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "cold-water",
+    "name": "Cold water",
+    "category": "Mixers",
+    "whatItIs": "Cold water is used in bar service as part of the mixers category.",
+    "flavorProfile": "Length, carbonation, temperature, bitterness, sweetness, or savory body.",
+    "typicalFunction": "Length, carbonation, temperature, bitterness, sweetness, or savory body.",
+    "commonCocktails": [],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Keep sealed; refrigerate opened perishable or carbonated mixers.",
+    "shelfLifeAfterOpening": "Carbonation falls quickly after opening; coffee should be made and held under workplace policy.",
+    "refrigerationUsuallyNeeded": "Often after opening",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "cranberry-juice",
+    "name": "Cranberry juice",
+    "category": "Citrus and juices",
+    "whatItIs": "Cranberry juice is used in bar service as part of the citrus and juices category.",
+    "flavorProfile": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "typicalFunction": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "commonCocktails": [
+      "Cosmopolitan",
+      "Sex on the Beach",
+      "Bay Breeze",
+      "Sea Breeze",
+      "Cape Codder"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate in a clean dated container.",
+    "shelfLifeAfterOpening": "Fresh citrus is best the same shift; packaged juices follow the label and house policy.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic juice",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "cream-of-coconut",
+    "name": "Cream of coconut",
+    "category": "Syrups and sweeteners",
+    "whatItIs": "Cream of coconut is used in bar service as part of the syrups and sweeteners category.",
+    "flavorProfile": "Sweetness, body, and flavor integration.",
+    "typicalFunction": "Sweetness, body, and flavor integration.",
+    "commonCocktails": [
+      "Piña Colada"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate house-made syrups in sanitized dated containers.",
+    "shelfLifeAfterOpening": "Often 1–4 weeks depending on sugar concentration, acidity, sanitation, and ingredients.",
+    "refrigerationUsuallyNeeded": "Usually",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic syrup/sweetener",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "dark-cr-me-de-cacao",
+    "name": "Dark crème de cacao",
+    "category": "Liqueurs and amari",
+    "whatItIs": "Dark crème de cacao is used in bar service as part of the liqueurs and amari category.",
+    "flavorProfile": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "typicalFunction": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "commonCocktails": [
+      "Brandy Alexander"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store tightly closed away from heat and direct light; refrigerate low-proof products when the producer directs.",
+    "shelfLifeAfterOpening": "Often months to years, but proof, sugar, dairy, and fresh ingredients change the answer.",
+    "refrigerationUsuallyNeeded": "Check producer guidance",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Potential secondary alcoholic flavoring only when lawfully designated and handled",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "dark-rum",
+    "name": "Dark rum",
+    "category": "Base spirits",
+    "whatItIs": "Dark rum is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Dark ’n’ Stormy"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "demerara-syrup",
+    "name": "Demerara syrup",
+    "category": "Syrups and sweeteners",
+    "whatItIs": "Demerara syrup is used in bar service as part of the syrups and sweeteners category.",
+    "flavorProfile": "Sweetness, body, and flavor integration.",
+    "typicalFunction": "Sweetness, body, and flavor integration.",
+    "commonCocktails": [
+      "Old Fashioned",
+      "Mint Julep",
+      "Sazerac"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate house-made syrups in sanitized dated containers.",
+    "shelfLifeAfterOpening": "Often 1–4 weeks depending on sugar concentration, acidity, sanitation, and ingredients.",
+    "refrigerationUsuallyNeeded": "Usually",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic syrup/sweetener",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "dry-vermouth",
+    "name": "Dry vermouth",
+    "category": "Vermouths",
+    "whatItIs": "Dry vermouth is used in bar service as part of the vermouths category.",
+    "flavorProfile": "Wine-based, herbal, lightly oxidizable, and lower proof than distilled spirits.",
+    "typicalFunction": "Wine-based, herbal, lightly oxidizable, and lower proof than distilled spirits.",
+    "commonCocktails": [
+      "Dry Martini",
+      "Dirty Martini",
+      "Gibson"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate immediately after opening and minimize oxygen exposure.",
+    "shelfLifeAfterOpening": "Best within about 4–8 weeks for training-quality service; track the open date.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Fortified or aromatized wine; verify product and license treatment",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "egg-white",
+    "name": "Egg white",
+    "category": "Cream and eggs",
+    "whatItIs": "Egg white is used in bar service as part of the cream and eggs category.",
+    "flavorProfile": "Texture, foam, richness, and opacity.",
+    "typicalFunction": "Texture, foam, richness, and opacity.",
+    "commonCocktails": [
+      "Whiskey Sour",
+      "Amaretto Sour"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Keep continuously refrigerated and follow food-safety policy.",
+    "shelfLifeAfterOpening": "Use by the marked date; discard after unsafe temperature exposure.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic food ingredient",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "fresh-espresso",
+    "name": "Fresh espresso",
+    "category": "Mixers",
+    "whatItIs": "Fresh espresso is used in bar service as part of the mixers category.",
+    "flavorProfile": "Length, carbonation, temperature, bitterness, sweetness, or savory body.",
+    "typicalFunction": "Length, carbonation, temperature, bitterness, sweetness, or savory body.",
+    "commonCocktails": [
+      "Espresso Martini"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Keep sealed; refrigerate opened perishable or carbonated mixers.",
+    "shelfLifeAfterOpening": "Carbonation falls quickly after opening; coffee should be made and held under workplace policy.",
+    "refrigerationUsuallyNeeded": "Often after opening",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "fresh-lemon-juice",
+    "name": "Fresh lemon juice",
+    "category": "Citrus and juices",
+    "whatItIs": "Fresh lemon juice is used in bar service as part of the citrus and juices category.",
+    "flavorProfile": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "typicalFunction": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "commonCocktails": [
+      "Whiskey Sour",
+      "Bloody Mary",
+      "Tom Collins",
+      "French 75",
+      "Sidecar",
+      "Lemon Drop",
+      "Long Island Iced Tea",
+      "Amaretto Sour"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate in a clean dated container.",
+    "shelfLifeAfterOpening": "Fresh citrus is best the same shift; packaged juices follow the label and house policy.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic juice",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "fresh-lemon-lime-sour",
+    "name": "Fresh lemon-lime sour",
+    "category": "Citrus and juices",
+    "whatItIs": "Fresh lemon-lime sour is used in bar service as part of the citrus and juices category.",
+    "flavorProfile": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "typicalFunction": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "commonCocktails": [
+      "Adios-Style Drink"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate in a clean dated container.",
+    "shelfLifeAfterOpening": "Fresh citrus is best the same shift; packaged juices follow the label and house policy.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "fresh-lime-juice",
+    "name": "Fresh lime juice",
+    "category": "Citrus and juices",
+    "whatItIs": "Fresh lime juice is used in bar service as part of the citrus and juices category.",
+    "flavorProfile": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "typicalFunction": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "commonCocktails": [
+      "Moscow Mule",
+      "Cosmopolitan",
+      "Gimlet",
+      "Daiquiri",
+      "Mojito",
+      "Cuba Libre",
+      "Dark ’n’ Stormy",
+      "Mai Tai"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate in a clean dated container.",
+    "shelfLifeAfterOpening": "Fresh citrus is best the same shift; packaged juices follow the label and house policy.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic juice",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "gin",
+    "name": "Gin",
+    "category": "Base spirits",
+    "whatItIs": "Gin is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Gimlet",
+      "Tom Collins",
+      "Negroni",
+      "French 75",
+      "Gin and Tonic",
+      "Long Island Iced Tea",
+      "Adios-Style Drink",
+      "Gibson"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "gin-or-vodka",
+    "name": "Gin or vodka",
+    "category": "Base spirits",
+    "whatItIs": "Gin or vodka is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Dirty Martini"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "ginger-ale-or-lemon-lime-soda",
+    "name": "Ginger ale or lemon-lime soda",
+    "category": "Base spirits",
+    "whatItIs": "Ginger ale or lemon-lime soda is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Shirley Temple"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "ginger-beer",
+    "name": "Ginger beer",
+    "category": "Base spirits",
+    "whatItIs": "Ginger beer is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Moscow Mule",
+      "Dark ’n’ Stormy"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "granulated-sugar",
+    "name": "Granulated sugar",
+    "category": "Syrups and sweeteners",
+    "whatItIs": "Granulated sugar is used in bar service as part of the syrups and sweeteners category.",
+    "flavorProfile": "Sweetness, body, and flavor integration.",
+    "typicalFunction": "Sweetness, body, and flavor integration.",
+    "commonCocktails": [
+      "Caipirinha"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate house-made syrups in sanitized dated containers.",
+    "shelfLifeAfterOpening": "Often 1–4 weeks depending on sugar concentration, acidity, sanitation, and ingredients.",
+    "refrigerationUsuallyNeeded": "Usually",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic syrup/sweetener",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "grapefruit-juice",
+    "name": "Grapefruit juice",
+    "category": "Citrus and juices",
+    "whatItIs": "Grapefruit juice is used in bar service as part of the citrus and juices category.",
+    "flavorProfile": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "typicalFunction": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "commonCocktails": [
+      "Sea Breeze"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate in a clean dated container.",
+    "shelfLifeAfterOpening": "Fresh citrus is best the same shift; packaged juices follow the label and house policy.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic juice",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "grapefruit-soda",
+    "name": "Grapefruit soda",
+    "category": "Citrus and juices",
+    "whatItIs": "Grapefruit soda is used in bar service as part of the citrus and juices category.",
+    "flavorProfile": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "typicalFunction": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "commonCocktails": [
+      "Paloma"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate in a clean dated container.",
+    "shelfLifeAfterOpening": "Fresh citrus is best the same shift; packaged juices follow the label and house policy.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "grenadine",
+    "name": "Grenadine",
+    "category": "Syrups and sweeteners",
+    "whatItIs": "Grenadine is used in bar service as part of the syrups and sweeteners category.",
+    "flavorProfile": "Sweetness, body, and flavor integration.",
+    "typicalFunction": "Sweetness, body, and flavor integration.",
+    "commonCocktails": [
+      "Tequila Sunrise",
+      "Shirley Temple"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate house-made syrups in sanitized dated containers.",
+    "shelfLifeAfterOpening": "Often 1–4 weeks depending on sugar concentration, acidity, sanitation, and ingredients.",
+    "refrigerationUsuallyNeeded": "Usually",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic syrup/sweetener",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "heavy-cream",
+    "name": "Heavy cream",
+    "category": "Cream and eggs",
+    "whatItIs": "Heavy cream is used in bar service as part of the cream and eggs category.",
+    "flavorProfile": "Texture, foam, richness, and opacity.",
+    "typicalFunction": "Texture, foam, richness, and opacity.",
+    "commonCocktails": [
+      "White Russian",
+      "Brandy Alexander"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Keep continuously refrigerated and follow food-safety policy.",
+    "shelfLifeAfterOpening": "Use by the marked date; discard after unsafe temperature exposure.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic food ingredient",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "herbal-vanilla-liqueur",
+    "name": "Herbal vanilla liqueur",
+    "category": "Liqueurs and amari",
+    "whatItIs": "Herbal vanilla liqueur is used in bar service as part of the liqueurs and amari category.",
+    "flavorProfile": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "typicalFunction": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "commonCocktails": [
+      "Harvey Wallbanger"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store tightly closed away from heat and direct light; refrigerate low-proof products when the producer directs.",
+    "shelfLifeAfterOpening": "Often months to years, but proof, sugar, dairy, and fresh ingredients change the answer.",
+    "refrigerationUsuallyNeeded": "Check producer guidance",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Potential secondary alcoholic flavoring only when lawfully designated and handled",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "honey-syrup",
+    "name": "Honey syrup",
+    "category": "Syrups and sweeteners",
+    "whatItIs": "Honey syrup is used in bar service as part of the syrups and sweeteners category.",
+    "flavorProfile": "Sweetness, body, and flavor integration.",
+    "typicalFunction": "Sweetness, body, and flavor integration.",
+    "commonCocktails": [
+      "Hot Toddy"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate house-made syrups in sanitized dated containers.",
+    "shelfLifeAfterOpening": "Often 1–4 weeks depending on sugar concentration, acidity, sanitation, and ingredients.",
+    "refrigerationUsuallyNeeded": "Usually",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic syrup/sweetener",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "hot-coffee",
+    "name": "Hot coffee",
+    "category": "Mixers",
+    "whatItIs": "Hot coffee is used in bar service as part of the mixers category.",
+    "flavorProfile": "Length, carbonation, temperature, bitterness, sweetness, or savory body.",
+    "typicalFunction": "Length, carbonation, temperature, bitterness, sweetness, or savory body.",
+    "commonCocktails": [
+      "Irish Coffee"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Keep sealed; refrigerate opened perishable or carbonated mixers.",
+    "shelfLifeAfterOpening": "Carbonation falls quickly after opening; coffee should be made and held under workplace policy.",
+    "refrigerationUsuallyNeeded": "Often after opening",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "hot-sauce",
+    "name": "Hot sauce",
+    "category": "Seasonings",
+    "whatItIs": "Hot sauce is used in bar service as part of the seasonings category.",
+    "flavorProfile": "Salt, heat, umami, spice, and savory complexity.",
+    "typicalFunction": "Salt, heat, umami, spice, and savory complexity.",
+    "commonCocktails": [
+      "Bloody Mary"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store clean, covered, dated, and according to workplace food-safety policy.",
+    "shelfLifeAfterOpening": "Use sensory checks and labeled dates.",
+    "refrigerationUsuallyNeeded": "Depends",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "hot-water",
+    "name": "Hot water",
+    "category": "Mixers",
+    "whatItIs": "Hot water is used in bar service as part of the mixers category.",
+    "flavorProfile": "Length, carbonation, temperature, bitterness, sweetness, or savory body.",
+    "typicalFunction": "Length, carbonation, temperature, bitterness, sweetness, or savory body.",
+    "commonCocktails": [
+      "Hot Toddy"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Keep sealed; refrigerate opened perishable or carbonated mixers.",
+    "shelfLifeAfterOpening": "Carbonation falls quickly after opening; coffee should be made and held under workplace policy.",
+    "refrigerationUsuallyNeeded": "Often after opening",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "irish-whiskey",
+    "name": "Irish whiskey",
+    "category": "Base spirits",
+    "whatItIs": "Irish whiskey is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Irish Coffee"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "lemon-lime-soda",
+    "name": "Lemon-lime soda",
+    "category": "Citrus and juices",
+    "whatItIs": "Lemon-lime soda is used in bar service as part of the citrus and juices category.",
+    "flavorProfile": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "typicalFunction": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "commonCocktails": [
+      "Adios-Style Drink"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate in a clean dated container.",
+    "shelfLifeAfterOpening": "Fresh citrus is best the same shift; packaged juices follow the label and house policy.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "light-or-gold-rum",
+    "name": "Light or gold rum",
+    "category": "Base spirits",
+    "whatItIs": "Light or gold rum is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Cuba Libre"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "lightly-whipped-cream",
+    "name": "Lightly whipped cream",
+    "category": "Cream and eggs",
+    "whatItIs": "Lightly whipped cream is used in bar service as part of the cream and eggs category.",
+    "flavorProfile": "Texture, foam, richness, and opacity.",
+    "typicalFunction": "Texture, foam, richness, and opacity.",
+    "commonCocktails": [
+      "Irish Coffee"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Keep continuously refrigerated and follow food-safety policy.",
+    "shelfLifeAfterOpening": "Use by the marked date; discard after unsafe temperature exposure.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic food ingredient",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "lime-wedges",
+    "name": "Lime wedges",
+    "category": "Citrus and juices",
+    "whatItIs": "Lime wedges is used in bar service as part of the citrus and juices category.",
+    "flavorProfile": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "typicalFunction": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "commonCocktails": [
+      "Caipirinha"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate in a clean dated container.",
+    "shelfLifeAfterOpening": "Fresh citrus is best the same shift; packaged juices follow the label and house policy.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic juice",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "london-dry-gin",
+    "name": "London dry gin",
+    "category": "Base spirits",
+    "whatItIs": "London dry gin is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Dry Martini"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "melon-liqueur",
+    "name": "Melon liqueur",
+    "category": "Liqueurs and amari",
+    "whatItIs": "Melon liqueur is used in bar service as part of the liqueurs and amari category.",
+    "flavorProfile": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "typicalFunction": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "commonCocktails": [
+      "Midori Sour"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store tightly closed away from heat and direct light; refrigerate low-proof products when the producer directs.",
+    "shelfLifeAfterOpening": "Often months to years, but proof, sugar, dairy, and fresh ingredients change the answer.",
+    "refrigerationUsuallyNeeded": "Check producer guidance",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Verify classification with Utah DABS or management",
+    "classificationConfidence": "low",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "mint-leaves",
+    "name": "Mint leaves",
+    "category": "Herbs",
+    "whatItIs": "Mint leaves is used in bar service as part of the herbs category.",
+    "flavorProfile": "Fresh volatile aroma and cooling green flavor.",
+    "typicalFunction": "Fresh volatile aroma and cooling green flavor.",
+    "commonCocktails": [
+      "Mint Julep",
+      "Mojito",
+      "Nojito"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Keep cold and hydrated without crushing leaves.",
+    "shelfLifeAfterOpening": "Usually several days; discard when slimy, blackened, or aromatically flat.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic herb",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "olive-brine",
+    "name": "Olive brine",
+    "category": "Garnishes and other",
+    "whatItIs": "Olive brine is used in bar service as part of the garnishes and other category.",
+    "flavorProfile": "Presentation, aroma, and finishing texture.",
+    "typicalFunction": "Presentation, aroma, and finishing texture.",
+    "commonCocktails": [
+      "Dirty Martini"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store clean, covered, dated, and according to workplace food-safety policy.",
+    "shelfLifeAfterOpening": "Use sensory checks and labeled dates.",
+    "refrigerationUsuallyNeeded": "Depends",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "orange-aperitivo",
+    "name": "Orange aperitivo",
+    "category": "Liqueurs and amari",
+    "whatItIs": "Orange aperitivo is used in bar service as part of the liqueurs and amari category.",
+    "flavorProfile": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "typicalFunction": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "commonCocktails": [
+      "Aperol Spritz"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store tightly closed away from heat and direct light; refrigerate low-proof products when the producer directs.",
+    "shelfLifeAfterOpening": "Often months to years, but proof, sugar, dairy, and fresh ingredients change the answer.",
+    "refrigerationUsuallyNeeded": "Check producer guidance",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Verify classification with Utah DABS or management",
+    "classificationConfidence": "low",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "orange-bitters",
+    "name": "Orange bitters",
+    "category": "Bitters",
+    "whatItIs": "Orange bitters is used in bar service as part of the bitters category.",
+    "flavorProfile": "Highly concentrated aromatic seasoning used in dashes.",
+    "typicalFunction": "Highly concentrated aromatic seasoning used in dashes.",
+    "commonCocktails": [
+      "Dry Martini"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store tightly closed away from heat and direct light; refrigerate low-proof products when the producer directs.",
+    "shelfLifeAfterOpening": "Often months to years, but proof, sugar, dairy, and fresh ingredients change the answer.",
+    "refrigerationUsuallyNeeded": "Check producer guidance",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Bitters; legal treatment can depend on product and use",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "orange-cura-ao",
+    "name": "Orange curaçao",
+    "category": "Liqueurs and amari",
+    "whatItIs": "Orange curaçao is used in bar service as part of the liqueurs and amari category.",
+    "flavorProfile": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "typicalFunction": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "commonCocktails": [
+      "Mai Tai"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store tightly closed away from heat and direct light; refrigerate low-proof products when the producer directs.",
+    "shelfLifeAfterOpening": "Often months to years, but proof, sugar, dairy, and fresh ingredients change the answer.",
+    "refrigerationUsuallyNeeded": "Check producer guidance",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Potential secondary alcoholic flavoring only when lawfully designated and handled",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "orange-juice",
+    "name": "Orange juice",
+    "category": "Citrus and juices",
+    "whatItIs": "Orange juice is used in bar service as part of the citrus and juices category.",
+    "flavorProfile": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "typicalFunction": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "commonCocktails": [
+      "Screwdriver",
+      "Tequila Sunrise",
+      "Mimosa",
+      "Sex on the Beach",
+      "Harvey Wallbanger"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate in a clean dated container.",
+    "shelfLifeAfterOpening": "Fresh citrus is best the same shift; packaged juices follow the label and house policy.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic juice",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "orange-liqueur",
+    "name": "Orange liqueur",
+    "category": "Liqueurs and amari",
+    "whatItIs": "Orange liqueur is used in bar service as part of the liqueurs and amari category.",
+    "flavorProfile": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "typicalFunction": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "commonCocktails": [
+      "Cosmopolitan",
+      "Margarita",
+      "Sidecar",
+      "Lemon Drop",
+      "Kamikaze",
+      "Long Island Iced Tea"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store tightly closed away from heat and direct light; refrigerate low-proof products when the producer directs.",
+    "shelfLifeAfterOpening": "Often months to years, but proof, sugar, dairy, and fresh ingredients change the answer.",
+    "refrigerationUsuallyNeeded": "Check producer guidance",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Potential secondary alcoholic flavoring only when lawfully designated and handled",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "orgeat",
+    "name": "Orgeat",
+    "category": "Syrups and sweeteners",
+    "whatItIs": "Orgeat is used in bar service as part of the syrups and sweeteners category.",
+    "flavorProfile": "Sweetness, body, and flavor integration.",
+    "typicalFunction": "Sweetness, body, and flavor integration.",
+    "commonCocktails": [
+      "Mai Tai"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate house-made syrups in sanitized dated containers.",
+    "shelfLifeAfterOpening": "Often 1–4 weeks depending on sugar concentration, acidity, sanitation, and ingredients.",
+    "refrigerationUsuallyNeeded": "Usually",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic syrup/sweetener",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "peach-schnapps",
+    "name": "Peach schnapps",
+    "category": "Citrus and juices",
+    "whatItIs": "Peach schnapps is used in bar service as part of the citrus and juices category.",
+    "flavorProfile": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "typicalFunction": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "commonCocktails": [
+      "Sex on the Beach"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate in a clean dated container.",
+    "shelfLifeAfterOpening": "Fresh citrus is best the same shift; packaged juices follow the label and house policy.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Potential secondary alcoholic flavoring only when lawfully designated and handled",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "peychaud-s-bitters",
+    "name": "Peychaud's bitters",
+    "category": "Bitters",
+    "whatItIs": "Peychaud's bitters is used in bar service as part of the bitters category.",
+    "flavorProfile": "Highly concentrated aromatic seasoning used in dashes.",
+    "typicalFunction": "Highly concentrated aromatic seasoning used in dashes.",
+    "commonCocktails": [
+      "Sazerac"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store tightly closed away from heat and direct light; refrigerate low-proof products when the producer directs.",
+    "shelfLifeAfterOpening": "Often months to years, but proof, sugar, dairy, and fresh ingredients change the answer.",
+    "refrigerationUsuallyNeeded": "Check producer guidance",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Bitters; legal treatment can depend on product and use",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "pineapple-juice",
+    "name": "Pineapple juice",
+    "category": "Citrus and juices",
+    "whatItIs": "Pineapple juice is used in bar service as part of the citrus and juices category.",
+    "flavorProfile": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "typicalFunction": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "commonCocktails": [
+      "Piña Colada",
+      "Bay Breeze"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate in a clean dated container.",
+    "shelfLifeAfterOpening": "Fresh citrus is best the same shift; packaged juices follow the label and house policy.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic juice",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "red-bitter-aperitivo",
+    "name": "Red bitter aperitivo",
+    "category": "Liqueurs and amari",
+    "whatItIs": "Red bitter aperitivo is used in bar service as part of the liqueurs and amari category.",
+    "flavorProfile": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "typicalFunction": "Sweetened concentrated flavor; may add fruit, herbs, spice, bitterness, or texture.",
+    "commonCocktails": [
+      "Boulevardier",
+      "Negroni"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store tightly closed away from heat and direct light; refrigerate low-proof products when the producer directs.",
+    "shelfLifeAfterOpening": "Often months to years, but proof, sugar, dairy, and fresh ingredients change the answer.",
+    "refrigerationUsuallyNeeded": "Check producer guidance",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Potential secondary alcoholic flavoring only when lawfully designated and handled",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "rich-simple-syrup",
+    "name": "Rich simple syrup",
+    "category": "Syrups and sweeteners",
+    "whatItIs": "Rich simple syrup is used in bar service as part of the syrups and sweeteners category.",
+    "flavorProfile": "Sweetness, body, and flavor integration.",
+    "typicalFunction": "Sweetness, body, and flavor integration.",
+    "commonCocktails": [
+      "Mai Tai",
+      "Amaretto Sour"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate house-made syrups in sanitized dated containers.",
+    "shelfLifeAfterOpening": "Often 1–4 weeks depending on sugar concentration, acidity, sanitation, and ingredients.",
+    "refrigerationUsuallyNeeded": "Usually",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic syrup/sweetener",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "rye-or-bourbon-whiskey",
+    "name": "Rye or bourbon whiskey",
+    "category": "Base spirits",
+    "whatItIs": "Rye or bourbon whiskey is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Manhattan"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "rye-whiskey",
+    "name": "Rye whiskey",
+    "category": "Base spirits",
+    "whatItIs": "Rye whiskey is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Sazerac"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "salt",
+    "name": "Salt",
+    "category": "Seasonings",
+    "whatItIs": "Salt is used in bar service as part of the seasonings category.",
+    "flavorProfile": "Salt, heat, umami, spice, and savory complexity.",
+    "typicalFunction": "Salt, heat, umami, spice, and savory complexity.",
+    "commonCocktails": [
+      "Paloma"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store clean, covered, dated, and according to workplace food-safety policy.",
+    "shelfLifeAfterOpening": "Use sensory checks and labeled dates.",
+    "refrigerationUsuallyNeeded": "Depends",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic seasoning",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "salt-and-pepper",
+    "name": "Salt and pepper",
+    "category": "Seasonings",
+    "whatItIs": "Salt and pepper is used in bar service as part of the seasonings category.",
+    "flavorProfile": "Salt, heat, umami, spice, and savory complexity.",
+    "typicalFunction": "Salt, heat, umami, spice, and savory complexity.",
+    "commonCocktails": [
+      "Bloody Mary"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store clean, covered, dated, and according to workplace food-safety policy.",
+    "shelfLifeAfterOpening": "Use sensory checks and labeled dates.",
+    "refrigerationUsuallyNeeded": "Depends",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic seasoning",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "scotch-whisky",
+    "name": "Scotch whisky",
+    "category": "Base spirits",
+    "whatItIs": "Scotch whisky is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Rob Roy"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "simple-syrup",
+    "name": "Simple syrup",
+    "category": "Syrups and sweeteners",
+    "whatItIs": "Simple syrup is used in bar service as part of the syrups and sweeteners category.",
+    "flavorProfile": "Sweetness, body, and flavor integration.",
+    "typicalFunction": "Sweetness, body, and flavor integration.",
+    "commonCocktails": [
+      "Whiskey Sour",
+      "Espresso Martini",
+      "Gimlet",
+      "Tom Collins",
+      "French 75",
+      "Daiquiri",
+      "Mojito",
+      "Lemon Drop"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate house-made syrups in sanitized dated containers.",
+    "shelfLifeAfterOpening": "Often 1–4 weeks depending on sugar concentration, acidity, sanitation, and ingredients.",
+    "refrigerationUsuallyNeeded": "Usually",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic syrup/sweetener",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "soda-water",
+    "name": "Soda water",
+    "category": "Mixers",
+    "whatItIs": "Soda water is used in bar service as part of the mixers category.",
+    "flavorProfile": "Length, carbonation, temperature, bitterness, sweetness, or savory body.",
+    "typicalFunction": "Length, carbonation, temperature, bitterness, sweetness, or savory body.",
+    "commonCocktails": [
+      "Tom Collins",
+      "Mojito",
+      "Aperol Spritz",
+      "Midori Sour",
+      "Gin Fizz",
+      "Nojito"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Keep sealed; refrigerate opened perishable or carbonated mixers.",
+    "shelfLifeAfterOpening": "Carbonation falls quickly after opening; coffee should be made and held under workplace policy.",
+    "refrigerationUsuallyNeeded": "Often after opening",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "sparkling-wine",
+    "name": "Sparkling wine",
+    "category": "Wines",
+    "whatItIs": "Sparkling wine is used in bar service as part of the wines category.",
+    "flavorProfile": "Fermented fruit character, acidity, aroma, and—when sparkling—carbonation.",
+    "typicalFunction": "Fermented fruit character, acidity, aroma, and—when sparkling—carbonation.",
+    "commonCocktails": [
+      "French 75",
+      "Aperol Spritz",
+      "Mimosa",
+      "Bellini",
+      "Champagne Cocktail"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate after opening and use a wine-preservation system when available.",
+    "shelfLifeAfterOpening": "Sparkling wine is best the same day; still wine usually within several days.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Wine",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "sugar-cube",
+    "name": "Sugar cube",
+    "category": "Syrups and sweeteners",
+    "whatItIs": "Sugar cube is used in bar service as part of the syrups and sweeteners category.",
+    "flavorProfile": "Sweetness, body, and flavor integration.",
+    "typicalFunction": "Sweetness, body, and flavor integration.",
+    "commonCocktails": [
+      "Champagne Cocktail"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate house-made syrups in sanitized dated containers.",
+    "shelfLifeAfterOpening": "Often 1–4 weeks depending on sugar concentration, acidity, sanitation, and ingredients.",
+    "refrigerationUsuallyNeeded": "Usually",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic syrup/sweetener",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "sweet-vermouth",
+    "name": "Sweet vermouth",
+    "category": "Vermouths",
+    "whatItIs": "Sweet vermouth is used in bar service as part of the vermouths category.",
+    "flavorProfile": "Wine-based, herbal, lightly oxidizable, and lower proof than distilled spirits.",
+    "typicalFunction": "Wine-based, herbal, lightly oxidizable, and lower proof than distilled spirits.",
+    "commonCocktails": [
+      "Manhattan",
+      "Boulevardier",
+      "Negroni",
+      "Rob Roy"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate immediately after opening and minimize oxygen exposure.",
+    "shelfLifeAfterOpening": "Best within about 4–8 weeks for training-quality service; track the open date.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Fortified or aromatized wine; verify product and license treatment",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "tomato-juice",
+    "name": "Tomato juice",
+    "category": "Citrus and juices",
+    "whatItIs": "Tomato juice is used in bar service as part of the citrus and juices category.",
+    "flavorProfile": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "typicalFunction": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "commonCocktails": [
+      "Bloody Mary"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate in a clean dated container.",
+    "shelfLifeAfterOpening": "Fresh citrus is best the same shift; packaged juices follow the label and house policy.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic juice",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "tonic-water",
+    "name": "Tonic water",
+    "category": "Mixers",
+    "whatItIs": "Tonic water is used in bar service as part of the mixers category.",
+    "flavorProfile": "Length, carbonation, temperature, bitterness, sweetness, or savory body.",
+    "typicalFunction": "Length, carbonation, temperature, bitterness, sweetness, or savory body.",
+    "commonCocktails": [
+      "Gin and Tonic"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Keep sealed; refrigerate opened perishable or carbonated mixers.",
+    "shelfLifeAfterOpening": "Carbonation falls quickly after opening; coffee should be made and held under workplace policy.",
+    "refrigerationUsuallyNeeded": "Often after opening",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "vodka",
+    "name": "Vodka",
+    "category": "Base spirits",
+    "whatItIs": "Vodka is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Moscow Mule",
+      "Espresso Martini",
+      "White Russian",
+      "Black Russian",
+      "Bloody Mary",
+      "Screwdriver",
+      "Lemon Drop",
+      "Kamikaze"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "whiskey",
+    "name": "Whiskey",
+    "category": "Base spirits",
+    "whatItIs": "Whiskey is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Hot Toddy"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "white-peach-pur-e",
+    "name": "White peach purée",
+    "category": "Citrus and juices",
+    "whatItIs": "White peach purée is used in bar service as part of the citrus and juices category.",
+    "flavorProfile": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "typicalFunction": "Acidity, freshness, fruit aroma, color, and dilution.",
+    "commonCocktails": [
+      "Bellini"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Refrigerate in a clean dated container.",
+    "shelfLifeAfterOpening": "Fresh citrus is best the same shift; packaged juices follow the label and house policy.",
+    "refrigerationUsuallyNeeded": "Yes",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic juice",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "white-rum",
+    "name": "White rum",
+    "category": "Base spirits",
+    "whatItIs": "White rum is used in bar service as part of the base spirits category.",
+    "flavorProfile": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "typicalFunction": "Alcoholic structure with category-specific grain, cane, agave, botanical, or fruit character.",
+    "commonCocktails": [
+      "Daiquiri",
+      "Mojito",
+      "Piña Colada",
+      "Long Island Iced Tea",
+      "Adios-Style Drink"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store sealed at stable room temperature away from heat and direct light.",
+    "shelfLifeAfterOpening": "Long shelf life; quality declines mainly through evaporation, contamination, or prolonged oxygen exposure.",
+    "refrigerationUsuallyNeeded": "Usually no",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Primary spirituous liquor when used as the drink's primary spirit",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  },
+  {
+    "id": "worcestershire-sauce",
+    "name": "Worcestershire sauce",
+    "category": "Seasonings",
+    "whatItIs": "Worcestershire sauce is used in bar service as part of the seasonings category.",
+    "flavorProfile": "Salt, heat, umami, spice, and savory complexity.",
+    "typicalFunction": "Salt, heat, umami, spice, and savory complexity.",
+    "commonCocktails": [
+      "Bloody Mary"
+    ],
+    "commonSubstitutions": "Substitute only when the guest and recipe allow it; re-balance sweetness, acidity, proof, and aroma rather than swapping blindly.",
+    "storage": "Store clean, covered, dated, and according to workplace food-safety policy.",
+    "shelfLifeAfterOpening": "Use sensory checks and labeled dates.",
+    "refrigerationUsuallyNeeded": "Depends",
+    "deteriorationSigns": "Discard or replace when aroma fades, flavor becomes stale or oxidized, carbonation is lost, color changes unexpectedly, mold appears, or the product violates its labeled date or workplace policy.",
+    "utahLegalClassification": "Nonalcoholic mixer",
+    "classificationConfidence": "moderate",
+    "sourceNote": "Operational storage guidance is general training information; follow the producer label and workplace food-safety policy."
+  }
+]

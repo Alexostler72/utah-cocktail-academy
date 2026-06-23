@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "old-fashioned-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Bourbon or rye whiskey; 0.2 oz Demerara syrup; 3 dashes Aromatic bitters?",
+    "options": [
+      "Whiskey Sour",
+      "Old Fashioned",
+      "Bellini",
+      "Sazerac"
+    ],
+    "answer": "Old Fashioned",
+    "cocktailId": "old-fashioned",
+    "category": "Recipe knowledge",
+    "explanation": "2 whiskey, quarter sweet, bitters—then scale whiskey to Utah."
+  },
+  {
+    "id": "old-fashioned-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Old Fashioned?",
+    "options": [
+      "Julep cup",
+      "Rocks glass",
+      "Double rocks glass",
+      "Coupe"
+    ],
+    "answer": "Double rocks glass",
+    "cocktailId": "old-fashioned",
+    "category": "Glassware",
+    "explanation": "Old Fashioned: Double rocks glass, Large cube."
+  },
+  {
+    "id": "manhattan-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Rye or bourbon whiskey; 1 oz Sweet vermouth; 2 dashes Aromatic bitters?",
+    "options": [
+      "Manhattan",
+      "Rob Roy",
+      "Dirty Martini",
+      "Dry Martini"
+    ],
+    "answer": "Manhattan",
+    "cocktailId": "manhattan",
+    "category": "Recipe knowledge",
+    "explanation": "2:1 whiskey to vermouth becomes 1.5:1 in the Utah build."
+  },
+  {
+    "id": "manhattan-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Manhattan?",
+    "options": [
+      "Double rocks glass",
+      "Coupe",
+      "Julep cup",
+      "Rocks glass"
+    ],
+    "answer": "Coupe",
+    "cocktailId": "manhattan",
+    "category": "Glassware",
+    "explanation": "Manhattan: Coupe, Up."
+  },
+  {
+    "id": "whiskey-sour-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Bourbon; 0.75 oz Fresh lemon juice; 0.5 oz Simple syrup; 0.75 oz Egg white?",
+    "options": [
+      "Whiskey Sour",
+      "Daiquiri",
+      "Tommy’s Margarita",
+      "Gimlet"
+    ],
+    "answer": "Whiskey Sour",
+    "cocktailId": "whiskey-sour",
+    "category": "Recipe knowledge",
+    "explanation": "2-¾-¾ sour; Utah becomes 1½-¾-½."
+  },
+  {
+    "id": "whiskey-sour-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Whiskey Sour?",
+    "options": [
+      "Double rocks glass",
+      "Rocks glass",
+      "Coupe",
+      "Julep cup"
+    ],
+    "answer": "Rocks glass",
+    "cocktailId": "whiskey-sour",
+    "category": "Glassware",
+    "explanation": "Whiskey Sour: Rocks glass, Standard cubes."
+  },
+  {
+    "id": "boulevardier-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Bourbon or rye whiskey; 1 oz Red bitter aperitivo; 1 oz Sweet vermouth?",
+    "options": [
+      "Negroni",
+      "Boulevardier",
+      "Dirty Martini",
+      "Cuba Libre"
+    ],
+    "answer": "Boulevardier",
+    "cocktailId": "boulevardier",
+    "category": "Recipe knowledge",
+    "explanation": "1½ whiskey + 1 bitter + 1 vermouth."
+  },
+  {
+    "id": "boulevardier-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Boulevardier?",
+    "options": [
+      "Double rocks glass",
+      "Julep cup",
+      "Coupe",
+      "Rocks glass"
+    ],
+    "answer": "Double rocks glass",
+    "cocktailId": "boulevardier",
+    "category": "Glassware",
+    "explanation": "Boulevardier: Double rocks glass, Large cube."
+  },
+  {
+    "id": "mint-julep-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Bourbon; 0.35 oz Demerara syrup; 10 leaves Mint leaves; 0.5 oz Cold water?",
+    "options": [
+      "Mint Julep",
+      "Mai Tai",
+      "French 75",
+      "Caipirinha"
+    ],
+    "answer": "Mint Julep",
+    "cocktailId": "mint-julep",
+    "category": "Recipe knowledge",
+    "explanation": "Bourbon + sweet + a mountain of mint ice."
+  },
+  {
+    "id": "mint-julep-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Mint Julep?",
+    "options": [
+      "Double rocks glass",
+      "Coupe",
+      "Rocks glass",
+      "Julep cup"
+    ],
+    "answer": "Julep cup",
+    "cocktailId": "mint-julep",
+    "category": "Glassware",
+    "explanation": "Mint Julep: Julep cup, Crushed ice."
+  },
+  {
+    "id": "sazerac-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Rye whiskey; 0.2 oz Demerara syrup; 4 dashes Peychaud's bitters; 0.1 oz Absinthe?",
+    "options": [
+      "Lemon Drop",
+      "Sazerac",
+      "Old Fashioned",
+      "Piña Colada"
+    ],
+    "answer": "Sazerac",
+    "cocktailId": "sazerac",
+    "category": "Recipe knowledge",
+    "explanation": "Rye Old Fashioned in an absinthe-scented glass."
+  },
+  {
+    "id": "sazerac-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Sazerac?",
+    "options": [
+      "Julep cup",
+      "Rocks glass",
+      "Double rocks glass",
+      "Coupe"
+    ],
+    "answer": "Rocks glass",
+    "cocktailId": "sazerac",
+    "category": "Glassware",
+    "explanation": "Sazerac: Rocks glass, Up."
+  },
+  {
+    "id": "moscow-mule-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Vodka; 0.5 oz Fresh lime juice; 4.5 oz Ginger beer?",
+    "options": [
+      "Screwdriver",
+      "Gin and Tonic",
+      "Moscow Mule",
+      "Mojito"
+    ],
+    "answer": "Moscow Mule",
+    "cocktailId": "moscow-mule",
+    "category": "Recipe knowledge",
+    "explanation": "Vodka, half lime, top ginger."
+  },
+  {
+    "id": "moscow-mule-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Moscow Mule?",
+    "options": [
+      "Coupe",
+      "Copper mug",
+      "Double rocks glass",
+      "Rocks glass"
+    ],
+    "answer": "Copper mug",
+    "cocktailId": "moscow-mule",
+    "category": "Glassware",
+    "explanation": "Moscow Mule: Copper mug, Standard cubes."
+  },
+  {
+    "id": "cosmopolitan-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Citrus vodka; 0.5 oz Orange liqueur; 0.75 oz Cranberry juice; 0.5 oz Fresh lime juice?",
+    "options": [
+      "Lemon Drop",
+      "Margarita",
+      "Sidecar",
+      "Cosmopolitan"
+    ],
+    "answer": "Cosmopolitan",
+    "cocktailId": "cosmopolitan",
+    "category": "Recipe knowledge",
+    "explanation": "1½ vodka, ½ orange, ½ lime, blush cranberry."
+  },
+  {
+    "id": "cosmopolitan-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Cosmopolitan?",
+    "options": [
+      "Double rocks glass",
+      "Julep cup",
+      "Coupe",
+      "Rocks glass"
+    ],
+    "answer": "Coupe",
+    "cocktailId": "cosmopolitan",
+    "category": "Glassware",
+    "explanation": "Cosmopolitan: Coupe, Up."
+  },
+  {
+    "id": "espresso-martini-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Vodka; 0.75 oz Coffee liqueur; 1 oz Fresh espresso; 0.15 oz Simple syrup?",
+    "options": [
+      "Espresso Martini",
+      "Boulevardier",
+      "Brandy Alexander",
+      "Mai Tai"
+    ],
+    "answer": "Espresso Martini",
+    "cocktailId": "espresso-martini",
+    "category": "Recipe knowledge",
+    "explanation": "1½ vodka, ¾ coffee liqueur, 1 espresso."
+  },
+  {
+    "id": "espresso-martini-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Espresso Martini?",
+    "options": [
+      "Coupe",
+      "Rocks glass",
+      "Julep cup",
+      "Double rocks glass"
+    ],
+    "answer": "Coupe",
+    "cocktailId": "espresso-martini",
+    "category": "Glassware",
+    "explanation": "Espresso Martini: Coupe, Up."
+  },
+  {
+    "id": "white-russian-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Vodka; 0.75 oz Coffee liqueur; 1 oz Heavy cream?",
+    "options": [
+      "Bellini",
+      "White Russian",
+      "Mint Julep",
+      "Gibson"
+    ],
+    "answer": "White Russian",
+    "cocktailId": "white-russian",
+    "category": "Recipe knowledge",
+    "explanation": "Black Russian + cream = White Russian."
+  },
+  {
+    "id": "white-russian-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a White Russian?",
+    "options": [
+      "Double rocks glass",
+      "Rocks glass",
+      "Coupe",
+      "Julep cup"
+    ],
+    "answer": "Rocks glass",
+    "cocktailId": "white-russian",
+    "category": "Glassware",
+    "explanation": "White Russian: Rocks glass, Standard cubes."
+  },
+  {
+    "id": "black-russian-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Vodka; 0.75 oz Coffee liqueur?",
+    "options": [
+      "French Connection",
+      "Adios-Style Drink",
+      "Dark ’n’ Stormy",
+      "Black Russian"
+    ],
+    "answer": "Black Russian",
+    "cocktailId": "black-russian",
+    "category": "Recipe knowledge",
+    "explanation": "2 vodka to 1 coffee; Utah 1½ to ¾."
+  },
+  {
+    "id": "black-russian-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Black Russian?",
+    "options": [
+      "Coupe",
+      "Rocks glass",
+      "Julep cup",
+      "Double rocks glass"
+    ],
+    "answer": "Rocks glass",
+    "cocktailId": "black-russian",
+    "category": "Glassware",
+    "explanation": "Black Russian: Rocks glass, Standard cubes."
+  },
+  {
+    "id": "bloody-mary-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Vodka; 4 oz Tomato juice; 0.5 oz Fresh lemon juice; 4 dashes Worcestershire sauce?",
+    "options": [
+      "Mimosa",
+      "Bloody Mary",
+      "Kamikaze",
+      "Sidecar"
+    ],
+    "answer": "Bloody Mary",
+    "cocktailId": "bloody-mary",
+    "category": "Recipe knowledge",
+    "explanation": "Vodka + seasoned tomato; taste the mix before service."
+  },
+  {
+    "id": "bloody-mary-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Bloody Mary?",
+    "options": [
+      "Highball glass",
+      "Rocks glass",
+      "Double rocks glass",
+      "Coupe"
+    ],
+    "answer": "Highball glass",
+    "cocktailId": "bloody-mary",
+    "category": "Glassware",
+    "explanation": "Bloody Mary: Highball glass, Standard cubes."
+  },
+  {
+    "id": "screwdriver-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Vodka; 4 oz Orange juice?",
+    "options": [
+      "Moscow Mule",
+      "Screwdriver",
+      "Mojito",
+      "Gin and Tonic"
+    ],
+    "answer": "Screwdriver",
+    "cocktailId": "screwdriver",
+    "category": "Recipe knowledge",
+    "explanation": "Vodka + OJ."
+  },
+  {
+    "id": "screwdriver-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Screwdriver?",
+    "options": [
+      "Rocks glass",
+      "Highball glass",
+      "Coupe",
+      "Double rocks glass"
+    ],
+    "answer": "Highball glass",
+    "cocktailId": "screwdriver",
+    "category": "Glassware",
+    "explanation": "Screwdriver: Highball glass, Standard cubes."
+  },
+  {
+    "id": "martini-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz London dry gin; 0.5 oz Dry vermouth; 1 dash Orange bitters?",
+    "options": [
+      "Rob Roy",
+      "Manhattan",
+      "Dirty Martini",
+      "Dry Martini"
+    ],
+    "answer": "Dry Martini",
+    "cocktailId": "martini",
+    "category": "Recipe knowledge",
+    "explanation": "Gin plus a little dry vermouth; clarify guest preference."
+  },
+  {
+    "id": "martini-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Dry Martini?",
+    "options": [
+      "Rocks glass",
+      "Double rocks glass",
+      "Nick and Nora",
+      "Coupe"
+    ],
+    "answer": "Nick and Nora",
+    "cocktailId": "martini",
+    "category": "Glassware",
+    "explanation": "Dry Martini: Nick and Nora, Up."
+  },
+  {
+    "id": "dirty-martini-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Gin or vodka; 0.25 oz Dry vermouth; 0.4 oz Olive brine?",
+    "options": [
+      "Dirty Martini",
+      "Rob Roy",
+      "Dry Martini",
+      "Manhattan"
+    ],
+    "answer": "Dirty Martini",
+    "cocktailId": "dirty-martini",
+    "category": "Recipe knowledge",
+    "explanation": "Martini + clean olive brine."
+  },
+  {
+    "id": "dirty-martini-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Dirty Martini?",
+    "options": [
+      "Martini glass",
+      "Rocks glass",
+      "Double rocks glass",
+      "Coupe"
+    ],
+    "answer": "Martini glass",
+    "cocktailId": "dirty-martini",
+    "category": "Glassware",
+    "explanation": "Dirty Martini: Martini glass, Up."
+  },
+  {
+    "id": "gimlet-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Gin; 0.75 oz Fresh lime juice; 0.5 oz Simple syrup?",
+    "options": [
+      "Tommy’s Margarita",
+      "Daiquiri",
+      "Whiskey Sour",
+      "Gimlet"
+    ],
+    "answer": "Gimlet",
+    "cocktailId": "gimlet",
+    "category": "Recipe knowledge",
+    "explanation": "Gin sour with lime."
+  },
+  {
+    "id": "gimlet-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Gimlet?",
+    "options": [
+      "Julep cup",
+      "Rocks glass",
+      "Coupe",
+      "Double rocks glass"
+    ],
+    "answer": "Coupe",
+    "cocktailId": "gimlet",
+    "category": "Glassware",
+    "explanation": "Gimlet: Coupe, Up."
+  },
+  {
+    "id": "tom-collins-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Gin; 0.75 oz Fresh lemon juice; 0.5 oz Simple syrup; 2.5 oz Soda water?",
+    "options": [
+      "Tom Collins",
+      "Hot Toddy",
+      "Whiskey Sour",
+      "Amaretto Sour"
+    ],
+    "answer": "Tom Collins",
+    "cocktailId": "tom-collins",
+    "category": "Recipe knowledge",
+    "explanation": "Gin sour + soda."
+  },
+  {
+    "id": "tom-collins-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Tom Collins?",
+    "options": [
+      "Coupe",
+      "Double rocks glass",
+      "Collins glass",
+      "Rocks glass"
+    ],
+    "answer": "Collins glass",
+    "cocktailId": "tom-collins",
+    "category": "Glassware",
+    "explanation": "Tom Collins: Collins glass, Spear."
+  },
+  {
+    "id": "negroni-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1 oz Gin; 1 oz Red bitter aperitivo; 1 oz Sweet vermouth?",
+    "options": [
+      "Negroni",
+      "Old Fashioned",
+      "Boulevardier",
+      "Dark ’n’ Stormy"
+    ],
+    "answer": "Negroni",
+    "cocktailId": "negroni",
+    "category": "Recipe knowledge",
+    "explanation": "Equal gin, bitter, sweet vermouth."
+  },
+  {
+    "id": "negroni-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Negroni?",
+    "options": [
+      "Julep cup",
+      "Rocks glass",
+      "Double rocks glass",
+      "Coupe"
+    ],
+    "answer": "Rocks glass",
+    "cocktailId": "negroni",
+    "category": "Glassware",
+    "explanation": "Negroni: Rocks glass, Large cube."
+  },
+  {
+    "id": "french-75-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1 oz Gin; 0.5 oz Fresh lemon juice; 0.4 oz Simple syrup; 3 oz Sparkling wine?",
+    "options": [
+      "Daiquiri",
+      "Mai Tai",
+      "French 75",
+      "Bellini"
+    ],
+    "answer": "French 75",
+    "cocktailId": "french-75",
+    "category": "Recipe knowledge",
+    "explanation": "Gin sour topped with bubbles."
+  },
+  {
+    "id": "french-75-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a French 75?",
+    "options": [
+      "Double rocks glass",
+      "Rocks glass",
+      "Coupe",
+      "Champagne flute"
+    ],
+    "answer": "Champagne flute",
+    "cocktailId": "french-75",
+    "category": "Glassware",
+    "explanation": "French 75: Champagne flute, Up."
+  },
+  {
+    "id": "gin-tonic-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Gin; 4 oz Tonic water?",
+    "options": [
+      "Gin and Tonic",
+      "Screwdriver",
+      "Moscow Mule",
+      "Mojito"
+    ],
+    "answer": "Gin and Tonic",
+    "cocktailId": "gin-tonic",
+    "category": "Recipe knowledge",
+    "explanation": "Gin + tonic, very cold."
+  },
+  {
+    "id": "gin-tonic-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Gin and Tonic?",
+    "options": [
+      "Highball glass",
+      "Rocks glass",
+      "Coupe",
+      "Double rocks glass"
+    ],
+    "answer": "Highball glass",
+    "cocktailId": "gin-tonic",
+    "category": "Glassware",
+    "explanation": "Gin and Tonic: Highball glass, Standard cubes."
+  },
+  {
+    "id": "daiquiri-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz White rum; 0.75 oz Fresh lime juice; 0.5 oz Simple syrup?",
+    "options": [
+      "Daiquiri",
+      "Tommy’s Margarita",
+      "Whiskey Sour",
+      "Gimlet"
+    ],
+    "answer": "Daiquiri",
+    "cocktailId": "daiquiri",
+    "category": "Recipe knowledge",
+    "explanation": "Rum-lime-sugar: the core rum sour."
+  },
+  {
+    "id": "daiquiri-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Daiquiri?",
+    "options": [
+      "Coupe",
+      "Double rocks glass",
+      "Julep cup",
+      "Rocks glass"
+    ],
+    "answer": "Coupe",
+    "cocktailId": "daiquiri",
+    "category": "Glassware",
+    "explanation": "Daiquiri: Coupe, Up."
+  },
+  {
+    "id": "mojito-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz White rum; 0.75 oz Fresh lime juice; 0.5 oz Simple syrup; 8 leaves Mint leaves?",
+    "options": [
+      "Mojito",
+      "Moscow Mule",
+      "Gin and Tonic",
+      "Screwdriver"
+    ],
+    "answer": "Mojito",
+    "cocktailId": "mojito",
+    "category": "Recipe knowledge",
+    "explanation": "Daiquiri + mint + soda."
+  },
+  {
+    "id": "mojito-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Mojito?",
+    "options": [
+      "Double rocks glass",
+      "Coupe",
+      "Rocks glass",
+      "Collins glass"
+    ],
+    "answer": "Collins glass",
+    "cocktailId": "mojito",
+    "category": "Glassware",
+    "explanation": "Mojito: Collins glass, Crushed ice."
+  },
+  {
+    "id": "cuba-libre-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Light or gold rum; 4 oz Cola; 0.25 oz Fresh lime juice?",
+    "options": [
+      "Cuba Libre",
+      "Moscow Mule",
+      "Gin and Tonic",
+      "Screwdriver"
+    ],
+    "answer": "Cuba Libre",
+    "cocktailId": "cuba-libre",
+    "category": "Recipe knowledge",
+    "explanation": "Rum + Coke + lime earns the full name."
+  },
+  {
+    "id": "cuba-libre-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Cuba Libre?",
+    "options": [
+      "Highball glass",
+      "Coupe",
+      "Double rocks glass",
+      "Rocks glass"
+    ],
+    "answer": "Highball glass",
+    "cocktailId": "cuba-libre",
+    "category": "Glassware",
+    "explanation": "Cuba Libre: Highball glass, Standard cubes."
+  },
+  {
+    "id": "dark-stormy-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Dark rum; 4.5 oz Ginger beer; 0.5 oz Fresh lime juice?",
+    "options": [
+      "Screwdriver",
+      "Moscow Mule",
+      "Dark ’n’ Stormy",
+      "Gin and Tonic"
+    ],
+    "answer": "Dark ’n’ Stormy",
+    "cocktailId": "dark-stormy",
+    "category": "Recipe knowledge",
+    "explanation": "Mule structure, dark rum base."
+  },
+  {
+    "id": "dark-stormy-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Dark ’n’ Stormy?",
+    "options": [
+      "Double rocks glass",
+      "Coupe",
+      "Rocks glass",
+      "Highball glass"
+    ],
+    "answer": "Highball glass",
+    "cocktailId": "dark-stormy",
+    "category": "Glassware",
+    "explanation": "Dark ’n’ Stormy: Highball glass, Standard cubes."
+  },
+  {
+    "id": "mai-tai-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Aged rum; 0.5 oz Orange curaçao; 0.5 oz Orgeat; 0.75 oz Fresh lime juice?",
+    "options": [
+      "Sidecar",
+      "Mai Tai",
+      "Gin and Tonic",
+      "Caipirinha"
+    ],
+    "answer": "Mai Tai",
+    "cocktailId": "mai-tai",
+    "category": "Recipe knowledge",
+    "explanation": "Rum daisy: rum + orange + lime + almond."
+  },
+  {
+    "id": "mai-tai-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Mai Tai?",
+    "options": [
+      "Rocks glass",
+      "Julep cup",
+      "Double rocks glass",
+      "Coupe"
+    ],
+    "answer": "Double rocks glass",
+    "cocktailId": "mai-tai",
+    "category": "Glassware",
+    "explanation": "Mai Tai: Double rocks glass, Crushed ice."
+  },
+  {
+    "id": "pina-colada-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz White rum; 3 oz Pineapple juice; 1.25 oz Cream of coconut; 0.25 oz Fresh lime juice?",
+    "options": [
+      "Moscow Mule",
+      "Piña Colada",
+      "Gin Fizz",
+      "Cosmopolitan"
+    ],
+    "answer": "Piña Colada",
+    "cocktailId": "pina-colada",
+    "category": "Recipe knowledge",
+    "explanation": "Rum + 3 pineapple + 1½ coconut, with a lime check."
+  },
+  {
+    "id": "pina-colada-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Piña Colada?",
+    "options": [
+      "Hurricane glass",
+      "Coupe",
+      "Double rocks glass",
+      "Rocks glass"
+    ],
+    "answer": "Hurricane glass",
+    "cocktailId": "pina-colada",
+    "category": "Glassware",
+    "explanation": "Piña Colada: Hurricane glass, Blended."
+  },
+  {
+    "id": "margarita-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Blanco tequila; 0.75 oz Orange liqueur; 0.75 oz Fresh lime juice; 0.15 oz Agave syrup?",
+    "options": [
+      "Lemon Drop",
+      "Sidecar",
+      "Cosmopolitan",
+      "Margarita"
+    ],
+    "answer": "Margarita",
+    "cocktailId": "margarita",
+    "category": "Recipe knowledge",
+    "explanation": "Tequila + orange + lime: a daisy."
+  },
+  {
+    "id": "margarita-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Margarita?",
+    "options": [
+      "Julep cup",
+      "Double rocks glass",
+      "Rocks glass",
+      "Coupe"
+    ],
+    "answer": "Double rocks glass",
+    "cocktailId": "margarita",
+    "category": "Glassware",
+    "explanation": "Margarita: Double rocks glass, Standard cubes."
+  },
+  {
+    "id": "tommys-margarita-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Blanco tequila; 0.75 oz Fresh lime juice; 0.4 oz Agave nectar?",
+    "options": [
+      "Gimlet",
+      "Daiquiri",
+      "Whiskey Sour",
+      "Tommy’s Margarita"
+    ],
+    "answer": "Tommy’s Margarita",
+    "cocktailId": "tommys-margarita",
+    "category": "Recipe knowledge",
+    "explanation": "Tequila sour sweetened with agave."
+  },
+  {
+    "id": "tommys-margarita-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Tommy’s Margarita?",
+    "options": [
+      "Coupe",
+      "Double rocks glass",
+      "Rocks glass",
+      "Julep cup"
+    ],
+    "answer": "Double rocks glass",
+    "cocktailId": "tommys-margarita",
+    "category": "Glassware",
+    "explanation": "Tommy’s Margarita: Double rocks glass, Standard cubes."
+  },
+  {
+    "id": "paloma-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Blanco tequila; 0.5 oz Fresh lime juice; 4.5 oz Grapefruit soda; 1 pinch Salt?",
+    "options": [
+      "Moscow Mule",
+      "Paloma",
+      "Screwdriver",
+      "Gin and Tonic"
+    ],
+    "answer": "Paloma",
+    "cocktailId": "paloma",
+    "category": "Recipe knowledge",
+    "explanation": "Tequila + grapefruit soda + lime + pinch salt."
+  },
+  {
+    "id": "paloma-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Paloma?",
+    "options": [
+      "Double rocks glass",
+      "Rocks glass",
+      "Highball glass",
+      "Coupe"
+    ],
+    "answer": "Highball glass",
+    "cocktailId": "paloma",
+    "category": "Glassware",
+    "explanation": "Paloma: Highball glass, Standard cubes."
+  },
+  {
+    "id": "tequila-sunrise-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Blanco tequila; 4 oz Orange juice; 0.4 oz Grenadine?",
+    "options": [
+      "Moscow Mule",
+      "Screwdriver",
+      "Tequila Sunrise",
+      "Gin and Tonic"
+    ],
+    "answer": "Tequila Sunrise",
+    "cocktailId": "tequila-sunrise",
+    "category": "Recipe knowledge",
+    "explanation": "Tequila + OJ, grenadine sunrise."
+  },
+  {
+    "id": "tequila-sunrise-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Tequila Sunrise?",
+    "options": [
+      "Coupe",
+      "Rocks glass",
+      "Double rocks glass",
+      "Highball glass"
+    ],
+    "answer": "Highball glass",
+    "cocktailId": "tequila-sunrise",
+    "category": "Glassware",
+    "explanation": "Tequila Sunrise: Highball glass, Standard cubes."
+  },
+  {
+    "id": "sidecar-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Cognac or brandy; 0.75 oz Orange liqueur; 0.75 oz Fresh lemon juice?",
+    "options": [
+      "Sidecar",
+      "Margarita",
+      "Cosmopolitan",
+      "Lemon Drop"
+    ],
+    "answer": "Sidecar",
+    "cocktailId": "sidecar",
+    "category": "Recipe knowledge",
+    "explanation": "Brandy Margarita with lemon."
+  },
+  {
+    "id": "sidecar-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Sidecar?",
+    "options": [
+      "Rocks glass",
+      "Julep cup",
+      "Double rocks glass",
+      "Coupe"
+    ],
+    "answer": "Coupe",
+    "cocktailId": "sidecar",
+    "category": "Glassware",
+    "explanation": "Sidecar: Coupe, Up."
+  },
+  {
+    "id": "brandy-alexander-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Brandy; 1 oz Dark crème de cacao; 1 oz Heavy cream?",
+    "options": [
+      "Brandy Alexander",
+      "Champagne Cocktail",
+      "Black Russian",
+      "Mojito"
+    ],
+    "answer": "Brandy Alexander",
+    "cocktailId": "brandy-alexander",
+    "category": "Recipe knowledge",
+    "explanation": "Equal-ish brandy, cacao, cream."
+  },
+  {
+    "id": "brandy-alexander-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Brandy Alexander?",
+    "options": [
+      "Rocks glass",
+      "Coupe",
+      "Julep cup",
+      "Double rocks glass"
+    ],
+    "answer": "Coupe",
+    "cocktailId": "brandy-alexander",
+    "category": "Glassware",
+    "explanation": "Brandy Alexander: Coupe, Up."
+  },
+  {
+    "id": "french-connection-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Cognac; 0.75 oz Amaretto?",
+    "options": [
+      "French Connection",
+      "Black Russian",
+      "Lemon Drop",
+      "Mojito"
+    ],
+    "answer": "French Connection",
+    "cocktailId": "french-connection",
+    "category": "Recipe knowledge",
+    "explanation": "Cognac + amaretto."
+  },
+  {
+    "id": "french-connection-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a French Connection?",
+    "options": [
+      "Coupe",
+      "Rocks glass",
+      "Julep cup",
+      "Double rocks glass"
+    ],
+    "answer": "Rocks glass",
+    "cocktailId": "french-connection",
+    "category": "Glassware",
+    "explanation": "French Connection: Rocks glass, Large cube."
+  },
+  {
+    "id": "lemon-drop-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Vodka; 0.5 oz Orange liqueur; 0.75 oz Fresh lemon juice; 0.25 oz Simple syrup?",
+    "options": [
+      "Margarita",
+      "Lemon Drop",
+      "Sidecar",
+      "Cosmopolitan"
+    ],
+    "answer": "Lemon Drop",
+    "cocktailId": "lemon-drop",
+    "category": "Recipe knowledge",
+    "explanation": "Vodka Sidecar with lemon-candy intent."
+  },
+  {
+    "id": "lemon-drop-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Lemon Drop?",
+    "options": [
+      "Rocks glass",
+      "Julep cup",
+      "Double rocks glass",
+      "Coupe"
+    ],
+    "answer": "Coupe",
+    "cocktailId": "lemon-drop",
+    "category": "Glassware",
+    "explanation": "Lemon Drop: Coupe, Up."
+  },
+  {
+    "id": "kamikaze-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Vodka; 0.5 oz Orange liqueur; 0.75 oz Fresh lime juice?",
+    "options": [
+      "Kamikaze",
+      "Cosmopolitan",
+      "Sidecar",
+      "Margarita"
+    ],
+    "answer": "Kamikaze",
+    "cocktailId": "kamikaze",
+    "category": "Recipe knowledge",
+    "explanation": "Vodka Margarita without salt."
+  },
+  {
+    "id": "kamikaze-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Kamikaze?",
+    "options": [
+      "Julep cup",
+      "Coupe",
+      "Double rocks glass",
+      "Rocks glass"
+    ],
+    "answer": "Coupe",
+    "cocktailId": "kamikaze",
+    "category": "Glassware",
+    "explanation": "Kamikaze: Coupe, Up."
+  },
+  {
+    "id": "long-island-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 0.375 oz Vodka; 0.375 oz Gin; 0.375 oz White rum; 0.375 oz Blanco tequila?",
+    "options": [
+      "Adios-Style Drink",
+      "Sidecar",
+      "Long Island Iced Tea",
+      "Bellini"
+    ],
+    "answer": "Long Island Iced Tea",
+    "cocktailId": "long-island",
+    "category": "Recipe knowledge",
+    "explanation": "Four clear spirits + orange, sour, cola—but Utah classification requires review."
+  },
+  {
+    "id": "long-island-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Long Island Iced Tea?",
+    "options": [
+      "Collins glass",
+      "Rocks glass",
+      "Coupe",
+      "Double rocks glass"
+    ],
+    "answer": "Collins glass",
+    "cocktailId": "long-island",
+    "category": "Glassware",
+    "explanation": "Long Island Iced Tea: Collins glass, Standard cubes."
+  },
+  {
+    "id": "adios-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 0.375 oz Vodka; 0.375 oz Gin; 0.375 oz White rum; 0.375 oz Blanco tequila?",
+    "options": [
+      "Adios-Style Drink",
+      "French 75",
+      "Long Island Iced Tea",
+      "Cape Codder"
+    ],
+    "answer": "Adios-Style Drink",
+    "cocktailId": "adios",
+    "category": "Recipe knowledge",
+    "explanation": "Long Island in blue clothes; legal review still required."
+  },
+  {
+    "id": "adios-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Adios-Style Drink?",
+    "options": [
+      "Rocks glass",
+      "Double rocks glass",
+      "Coupe",
+      "Collins glass"
+    ],
+    "answer": "Collins glass",
+    "cocktailId": "adios",
+    "category": "Glassware",
+    "explanation": "Adios-Style Drink: Collins glass, Standard cubes."
+  },
+  {
+    "id": "aperol-spritz-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 3 oz Sparkling wine; 1.5 oz Orange aperitivo; 1.5 oz Soda water?",
+    "options": [
+      "Screwdriver",
+      "Gimlet",
+      "Gibson",
+      "Aperol Spritz"
+    ],
+    "answer": "Aperol Spritz",
+    "cocktailId": "aperol-spritz",
+    "category": "Recipe knowledge",
+    "explanation": "3 wine, 2 bitter, 1 soda—subject to Utah classification review."
+  },
+  {
+    "id": "aperol-spritz-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Aperol Spritz?",
+    "options": [
+      "Coupe",
+      "Wine glass",
+      "Rocks glass",
+      "Double rocks glass"
+    ],
+    "answer": "Wine glass",
+    "cocktailId": "aperol-spritz",
+    "category": "Glassware",
+    "explanation": "Aperol Spritz: Wine glass, Standard cubes."
+  },
+  {
+    "id": "mimosa-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 3 oz Sparkling wine; 3 oz Orange juice?",
+    "options": [
+      "Bellini",
+      "Mimosa",
+      "Champagne Cocktail",
+      "French 75"
+    ],
+    "answer": "Mimosa",
+    "cocktailId": "mimosa",
+    "category": "Recipe knowledge",
+    "explanation": "Equal bubbles and orange."
+  },
+  {
+    "id": "mimosa-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Mimosa?",
+    "options": [
+      "Double rocks glass",
+      "Coupe",
+      "Rocks glass",
+      "Champagne flute"
+    ],
+    "answer": "Champagne flute",
+    "cocktailId": "mimosa",
+    "category": "Glassware",
+    "explanation": "Mimosa: Champagne flute, Up."
+  },
+  {
+    "id": "bellini-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 4 oz Sparkling wine; 2 oz White peach purée?",
+    "options": [
+      "Champagne Cocktail",
+      "Dry Martini",
+      "Mimosa",
+      "Bellini"
+    ],
+    "answer": "Bellini",
+    "cocktailId": "bellini",
+    "category": "Recipe knowledge",
+    "explanation": "Peach + Prosecco."
+  },
+  {
+    "id": "bellini-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Bellini?",
+    "options": [
+      "Champagne flute",
+      "Coupe",
+      "Rocks glass",
+      "Double rocks glass"
+    ],
+    "answer": "Champagne flute",
+    "cocktailId": "bellini",
+    "category": "Glassware",
+    "explanation": "Bellini: Champagne flute, Up."
+  },
+  {
+    "id": "champagne-cocktail-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 4.5 oz Sparkling wine; 0.25 oz Cognac; 1 cube Sugar cube; 3 dashes Aromatic bitters?",
+    "options": [
+      "Bellini",
+      "Espresso Martini",
+      "Mimosa",
+      "Champagne Cocktail"
+    ],
+    "answer": "Champagne Cocktail",
+    "cocktailId": "champagne-cocktail",
+    "category": "Recipe knowledge",
+    "explanation": "Bitters sugar under bubbles."
+  },
+  {
+    "id": "champagne-cocktail-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Champagne Cocktail?",
+    "options": [
+      "Double rocks glass",
+      "Champagne flute",
+      "Rocks glass",
+      "Coupe"
+    ],
+    "answer": "Champagne flute",
+    "cocktailId": "champagne-cocktail",
+    "category": "Glassware",
+    "explanation": "Champagne Cocktail: Champagne flute, Up."
+  },
+  {
+    "id": "caipirinha-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Cachaça; 1 lime Lime wedges; 1.5 tsp Granulated sugar?",
+    "options": [
+      "Whiskey Sour",
+      "Gimlet",
+      "Caipirinha",
+      "Daiquiri"
+    ],
+    "answer": "Caipirinha",
+    "cocktailId": "caipirinha",
+    "category": "Recipe knowledge",
+    "explanation": "Cachaça + whole lime + sugar."
+  },
+  {
+    "id": "caipirinha-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Caipirinha?",
+    "options": [
+      "Double rocks glass",
+      "Rocks glass",
+      "Coupe",
+      "Julep cup"
+    ],
+    "answer": "Rocks glass",
+    "cocktailId": "caipirinha",
+    "category": "Glassware",
+    "explanation": "Caipirinha: Rocks glass, Crushed ice."
+  },
+  {
+    "id": "amaretto-sour-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.25 oz Amaretto; 0.75 oz Bourbon; 1 oz Fresh lemon juice; 0.1 oz Rich simple syrup?",
+    "options": [
+      "Gimlet",
+      "Daiquiri",
+      "Amaretto Sour",
+      "Whiskey Sour"
+    ],
+    "answer": "Amaretto Sour",
+    "cocktailId": "amaretto-sour",
+    "category": "Recipe knowledge",
+    "explanation": "Sweet almond needs bourbon backbone and a full lemon measure."
+  },
+  {
+    "id": "amaretto-sour-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Amaretto Sour?",
+    "options": [
+      "Rocks glass",
+      "Coupe",
+      "Julep cup",
+      "Double rocks glass"
+    ],
+    "answer": "Rocks glass",
+    "cocktailId": "amaretto-sour",
+    "category": "Glassware",
+    "explanation": "Amaretto Sour: Rocks glass, Standard cubes."
+  },
+  {
+    "id": "midori-sour-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.25 oz Melon liqueur; 0.5 oz Vodka; 0.75 oz Fresh lemon juice; 0.25 oz Fresh lime juice?",
+    "options": [
+      "Gimlet",
+      "Whiskey Sour",
+      "Midori Sour",
+      "Daiquiri"
+    ],
+    "answer": "Midori Sour",
+    "cocktailId": "midori-sour",
+    "category": "Recipe knowledge",
+    "explanation": "Melon liqueur needs real lemon and lime."
+  },
+  {
+    "id": "midori-sour-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Midori Sour?",
+    "options": [
+      "Julep cup",
+      "Rocks glass",
+      "Double rocks glass",
+      "Coupe"
+    ],
+    "answer": "Rocks glass",
+    "cocktailId": "midori-sour",
+    "category": "Glassware",
+    "explanation": "Midori Sour: Rocks glass, Standard cubes."
+  },
+  {
+    "id": "sex-on-the-beach-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Vodka; 0.5 oz Peach schnapps; 2 oz Orange juice; 2 oz Cranberry juice?",
+    "options": [
+      "Whiskey Sour",
+      "Black Russian",
+      "Mint Julep",
+      "Sex on the Beach"
+    ],
+    "answer": "Sex on the Beach",
+    "cocktailId": "sex-on-the-beach",
+    "category": "Recipe knowledge",
+    "explanation": "Vodka + peach + orange + cranberry."
+  },
+  {
+    "id": "sex-on-the-beach-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Sex on the Beach?",
+    "options": [
+      "Rocks glass",
+      "Double rocks glass",
+      "Coupe",
+      "Highball glass"
+    ],
+    "answer": "Highball glass",
+    "cocktailId": "sex-on-the-beach",
+    "category": "Glassware",
+    "explanation": "Sex on the Beach: Highball glass, Standard cubes."
+  },
+  {
+    "id": "bay-breeze-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Vodka; 2 oz Cranberry juice; 2 oz Pineapple juice?",
+    "options": [
+      "Gin and Tonic",
+      "Bay Breeze",
+      "Moscow Mule",
+      "Screwdriver"
+    ],
+    "answer": "Bay Breeze",
+    "cocktailId": "bay-breeze",
+    "category": "Recipe knowledge",
+    "explanation": "Bay = pineapple; Sea = grapefruit."
+  },
+  {
+    "id": "bay-breeze-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Bay Breeze?",
+    "options": [
+      "Rocks glass",
+      "Highball glass",
+      "Coupe",
+      "Double rocks glass"
+    ],
+    "answer": "Highball glass",
+    "cocktailId": "bay-breeze",
+    "category": "Glassware",
+    "explanation": "Bay Breeze: Highball glass, Standard cubes."
+  },
+  {
+    "id": "sea-breeze-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Vodka; 3 oz Cranberry juice; 1.5 oz Grapefruit juice?",
+    "options": [
+      "Gin and Tonic",
+      "Moscow Mule",
+      "Sea Breeze",
+      "Screwdriver"
+    ],
+    "answer": "Sea Breeze",
+    "cocktailId": "sea-breeze",
+    "category": "Recipe knowledge",
+    "explanation": "Sea = grapefruit; Bay = pineapple."
+  },
+  {
+    "id": "sea-breeze-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Sea Breeze?",
+    "options": [
+      "Coupe",
+      "Highball glass",
+      "Double rocks glass",
+      "Rocks glass"
+    ],
+    "answer": "Highball glass",
+    "cocktailId": "sea-breeze",
+    "category": "Glassware",
+    "explanation": "Sea Breeze: Highball glass, Standard cubes."
+  },
+  {
+    "id": "harvey-wallbanger-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Vodka; 4 oz Orange juice; 0.5 oz Herbal vanilla liqueur?",
+    "options": [
+      "Gin and Tonic",
+      "Screwdriver",
+      "Harvey Wallbanger",
+      "Moscow Mule"
+    ],
+    "answer": "Harvey Wallbanger",
+    "cocktailId": "harvey-wallbanger",
+    "category": "Recipe knowledge",
+    "explanation": "Screwdriver + herbal vanilla float."
+  },
+  {
+    "id": "harvey-wallbanger-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Harvey Wallbanger?",
+    "options": [
+      "Coupe",
+      "Rocks glass",
+      "Highball glass",
+      "Double rocks glass"
+    ],
+    "answer": "Highball glass",
+    "cocktailId": "harvey-wallbanger",
+    "category": "Glassware",
+    "explanation": "Harvey Wallbanger: Highball glass, Standard cubes."
+  },
+  {
+    "id": "irish-coffee-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Irish whiskey; 4 oz Hot coffee; 0.4 oz Brown sugar syrup; 1 oz Lightly whipped cream?",
+    "options": [
+      "Irish Coffee",
+      "Cape Codder",
+      "Gin and Tonic",
+      "Hot Toddy"
+    ],
+    "answer": "Irish Coffee",
+    "cocktailId": "irish-coffee",
+    "category": "Recipe knowledge",
+    "explanation": "Hot whiskey coffee through cold cream."
+  },
+  {
+    "id": "irish-coffee-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Irish Coffee?",
+    "options": [
+      "Coupe",
+      "Double rocks glass",
+      "Irish coffee glass",
+      "Rocks glass"
+    ],
+    "answer": "Irish coffee glass",
+    "cocktailId": "irish-coffee",
+    "category": "Glassware",
+    "explanation": "Irish Coffee: Irish coffee glass, No ice."
+  },
+  {
+    "id": "hot-toddy-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Whiskey; 4 oz Hot water; 0.5 oz Honey syrup; 0.5 oz Fresh lemon juice?",
+    "options": [
+      "Irish Coffee",
+      "Hot Toddy",
+      "Old Fashioned",
+      "Sazerac"
+    ],
+    "answer": "Hot Toddy",
+    "cocktailId": "hot-toddy",
+    "category": "Recipe knowledge",
+    "explanation": "Whiskey + honey + lemon + hot water."
+  },
+  {
+    "id": "hot-toddy-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Hot Toddy?",
+    "options": [
+      "Coupe",
+      "Irish coffee glass",
+      "Rocks glass",
+      "Double rocks glass"
+    ],
+    "answer": "Irish coffee glass",
+    "cocktailId": "hot-toddy",
+    "category": "Glassware",
+    "explanation": "Hot Toddy: Irish coffee glass, No ice."
+  },
+  {
+    "id": "cape-codder-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Vodka; 4 oz Cranberry juice; 0.25 oz Fresh lime juice?",
+    "options": [
+      "Gin and Tonic",
+      "Moscow Mule",
+      "Screwdriver",
+      "Cape Codder"
+    ],
+    "answer": "Cape Codder",
+    "cocktailId": "cape-codder",
+    "category": "Recipe knowledge",
+    "explanation": "Cape Codder has cranberry only; Sea adds grapefruit."
+  },
+  {
+    "id": "cape-codder-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Cape Codder?",
+    "options": [
+      "Rocks glass",
+      "Highball glass",
+      "Double rocks glass",
+      "Coupe"
+    ],
+    "answer": "Highball glass",
+    "cocktailId": "cape-codder",
+    "category": "Glassware",
+    "explanation": "Cape Codder: Highball glass, Standard cubes."
+  },
+  {
+    "id": "rob-roy-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Scotch whisky; 1 oz Sweet vermouth; 2 dashes Aromatic bitters?",
+    "options": [
+      "Manhattan",
+      "Dirty Martini",
+      "Rob Roy",
+      "Dry Martini"
+    ],
+    "answer": "Rob Roy",
+    "cocktailId": "rob-roy",
+    "category": "Recipe knowledge",
+    "explanation": "Manhattan with Scotch."
+  },
+  {
+    "id": "rob-roy-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Rob Roy?",
+    "options": [
+      "Double rocks glass",
+      "Julep cup",
+      "Rocks glass",
+      "Coupe"
+    ],
+    "answer": "Coupe",
+    "cocktailId": "rob-roy",
+    "category": "Glassware",
+    "explanation": "Rob Roy: Coupe, Up."
+  },
+  {
+    "id": "gibson-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Gin; 0.5 oz Dry vermouth?",
+    "options": [
+      "Dirty Martini",
+      "Dry Martini",
+      "Gibson",
+      "Manhattan"
+    ],
+    "answer": "Gibson",
+    "cocktailId": "gibson",
+    "category": "Recipe knowledge",
+    "explanation": "A Gibson is a martini identified by its onion."
+  },
+  {
+    "id": "gibson-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Gibson?",
+    "options": [
+      "Nick and Nora",
+      "Double rocks glass",
+      "Rocks glass",
+      "Coupe"
+    ],
+    "answer": "Nick and Nora",
+    "cocktailId": "gibson",
+    "category": "Glassware",
+    "explanation": "Gibson: Nick and Nora, Up."
+  },
+  {
+    "id": "gin-fizz-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 1.5 oz Gin; 0.75 oz Fresh lemon juice; 0.5 oz Simple syrup; 2 oz Soda water?",
+    "options": [
+      "Moscow Mule",
+      "Paloma",
+      "Gin Fizz",
+      "French 75"
+    ],
+    "answer": "Gin Fizz",
+    "cocktailId": "gin-fizz",
+    "category": "Recipe knowledge",
+    "explanation": "Fizz: sour + soda, usually no ice and shorter than Collins."
+  },
+  {
+    "id": "gin-fizz-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Gin Fizz?",
+    "options": [
+      "Double rocks glass",
+      "Rocks glass",
+      "Coupe",
+      "Highball glass"
+    ],
+    "answer": "Highball glass",
+    "cocktailId": "gin-fizz",
+    "category": "Glassware",
+    "explanation": "Gin Fizz: Highball glass, No ice."
+  },
+  {
+    "id": "shirley-temple-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 5 oz Ginger ale or lemon-lime soda; 0.5 oz Grenadine; 0.25 oz Fresh lime juice?",
+    "options": [
+      "Cape Codder",
+      "Shirley Temple",
+      "Nojito",
+      "Mint Julep"
+    ],
+    "answer": "Shirley Temple",
+    "cocktailId": "shirley-temple",
+    "category": "Recipe knowledge",
+    "explanation": "Soda + grenadine + citrus."
+  },
+  {
+    "id": "shirley-temple-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Shirley Temple?",
+    "options": [
+      "Double rocks glass",
+      "Rocks glass",
+      "Highball glass",
+      "Coupe"
+    ],
+    "answer": "Highball glass",
+    "cocktailId": "shirley-temple",
+    "category": "Glassware",
+    "explanation": "Shirley Temple: Highball glass, Standard cubes."
+  },
+  {
+    "id": "nojito-identify",
+    "type": "reverse",
+    "prompt": "Which cocktail uses this Utah training build: 0.75 oz Fresh lime juice; 0.5 oz Simple syrup; 8 leaves Mint leaves; 3.5 oz Soda water?",
+    "options": [
+      "Shirley Temple",
+      "Gin and Tonic",
+      "Gibson",
+      "Nojito"
+    ],
+    "answer": "Nojito",
+    "cocktailId": "nojito",
+    "category": "Recipe knowledge",
+    "explanation": "Mojito minus rum, not minus care."
+  },
+  {
+    "id": "nojito-glass",
+    "type": "glassware",
+    "prompt": "What glassware is specified for a Nojito?",
+    "options": [
+      "Coupe",
+      "Double rocks glass",
+      "Rocks glass",
+      "Collins glass"
+    ],
+    "answer": "Collins glass",
+    "cocktailId": "nojito",
+    "category": "Glassware",
+    "explanation": "Nojito: Collins glass, Crushed ice."
+  },
+  {
+    "id": "law-primary",
+    "type": "law",
+    "prompt": "What is the configured general maximum primary spirituous-liquor amount per mixed beverage?",
+    "options": [
+      "1 oz",
+      "1.5 oz",
+      "2 oz",
+      "2.5 oz"
+    ],
+    "answer": "1.5 oz",
+    "category": "Utah law",
+    "explanation": "See the Utah Law section and the linked official source."
+  },
+  {
+    "id": "law-total",
+    "type": "law",
+    "prompt": "What is the configured general maximum total spirituous liquor per beverage?",
+    "options": [
+      "1.5 oz",
+      "2 oz",
+      "2.5 oz",
+      "3 oz"
+    ],
+    "answer": "2.5 oz",
+    "category": "Utah law",
+    "explanation": "See the Utah Law section and the linked official source."
+  },
+  {
+    "id": "law-wine",
+    "type": "law",
+    "prompt": "What is the configured general maximum wine individual portion?",
+    "options": [
+      "4 oz",
+      "5 oz",
+      "6 oz",
+      "8 oz"
+    ],
+    "answer": "5 oz",
+    "category": "Utah law",
+    "explanation": "See the Utah Law section and the linked official source."
+  },
+  {
+    "id": "law-bar-id",
+    "type": "law",
+    "prompt": "Who must have ID checked and electronically scanned before entering a Utah bar or tavern?",
+    "options": [
+      "Only people under 35",
+      "Only people who order liquor",
+      "Every entrant",
+      "Only out-of-state guests"
+    ],
+    "answer": "Every entrant",
+    "category": "Utah law",
+    "explanation": "See the Utah Law section and the linked official source."
+  },
+  {
+    "id": "law-rest-id",
+    "type": "law",
+    "prompt": "At a restaurant, who must be checked and scanned when purchasing alcohol under current DABS guidance?",
+    "options": [
+      "Everyone",
+      "Those who appear 35 or younger",
+      "Only those under 30",
+      "No one if seated"
+    ],
+    "answer": "Those who appear 35 or younger",
+    "category": "Utah law",
+    "explanation": "See the Utah Law section and the linked official source."
+  },
+  {
+    "id": "law-training",
+    "type": "law",
+    "prompt": "How often is approved on-premise server training renewed?",
+    "options": [
+      "Every year",
+      "Every two years",
+      "Every three years",
+      "Only once"
+    ],
+    "answer": "Every three years",
+    "category": "Utah law",
+    "explanation": "See the Utah Law section and the linked official source."
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "id": "build",
+    "name": "Build",
+    "whenUsed": "Combine directly in the service glass.",
+    "whyItWorks": "Preserves carbonation and minimizes handling.",
+    "equipment": [
+      "Jigger",
+      "bar spoon",
+      "service glass"
+    ],
+    "steps": [
+      "Prepare glass and ice.",
+      "Measure ingredients in recipe order.",
+      "Add carbonated ingredients last.",
+      "Lift once from bottom to top.",
+      "Garnish and serve."
+    ],
+    "commonMistakes": [
+      "Low ice",
+      "Adding soda before vigorous mixing",
+      "No final integration"
+    ],
+    "sensoryGoal": "Cold, integrated, lively",
+    "cocktails": [
+      "Moscow Mule",
+      "Gin and Tonic",
+      "Cuba Libre"
+    ],
+    "practiceExercise": "Practice building three highballs with identical fill lines."
+  },
+  {
+    "id": "shake",
+    "name": "Shake",
+    "whenUsed": "Mix citrus, dairy, egg, juice, or other opaque ingredients with ice.",
+    "whyItWorks": "Rapidly chills, dilutes, and aerates.",
+    "equipment": [
+      "Shaker tins",
+      "jigger",
+      "strainer"
+    ],
+    "steps": [
+      "Measure into the small tin.",
+      "Add dense ice last.",
+      "Seal and shake hard 10–12 seconds.",
+      "Break seal safely.",
+      "Strain immediately."
+    ],
+    "commonMistakes": [
+      "Weak wrist-only shaking",
+      "Too little ice",
+      "Letting the drink sit on ice"
+    ],
+    "sensoryGoal": "Very cold, integrated, lightly aerated",
+    "cocktails": [
+      "Daiquiri",
+      "Margarita",
+      "Cosmopolitan"
+    ],
+    "practiceExercise": "Shake water with ice and compare temperature at 6, 10, and 14 seconds."
+  },
+  {
+    "id": "dry-shake",
+    "name": "Dry Shake",
+    "whenUsed": "Shake an egg-white or foaming drink without ice before the cold shake.",
+    "whyItWorks": "Builds foam before ice suppresses emulsification.",
+    "equipment": [
+      "Shaker tins",
+      "strainer"
+    ],
+    "steps": [
+      "Measure ingredients.",
+      "Seal without ice.",
+      "Shake vigorously.",
+      "Open, add ice, shake again.",
+      "Double strain."
+    ],
+    "commonMistakes": [
+      "Weak first shake",
+      "Overfilling tins",
+      "Skipping the cold shake"
+    ],
+    "sensoryGoal": "Dense, stable foam",
+    "cocktails": [
+      "Whiskey Sour",
+      "Amaretto Sour"
+    ],
+    "practiceExercise": "Practice with aquafaba and water to observe foam formation."
+  },
+  {
+    "id": "reverse-dry-shake",
+    "name": "Reverse Dry Shake",
+    "whenUsed": "Shake with ice first, strain out ice, then shake again without ice.",
+    "whyItWorks": "Creates a fine, polished foam cap.",
+    "equipment": [
+      "Shaker tins",
+      "Hawthorne strainer",
+      "fine strainer"
+    ],
+    "steps": [
+      "Shake all ingredients with ice.",
+      "Strain out ice.",
+      "Reseal and shake without ice.",
+      "Fine strain immediately.",
+      "Let foam settle."
+    ],
+    "commonMistakes": [
+      "Leaving ice chips in second shake",
+      "Over-dilution",
+      "Slow service after foaming"
+    ],
+    "sensoryGoal": "Fine-textured glossy foam",
+    "cocktails": [
+      "Advanced sours"
+    ],
+    "practiceExercise": "Compare dry-shake and reverse-dry-shake foam after five minutes."
+  },
+  {
+    "id": "stir",
+    "name": "Stir",
+    "whenUsed": "Mix clear, spirit-forward drinks with ice in a mixing glass.",
+    "whyItWorks": "Chills and dilutes while preserving clarity and silky texture.",
+    "equipment": [
+      "Mixing glass",
+      "bar spoon",
+      "jigger",
+      "julep strainer"
+    ],
+    "steps": [
+      "Chill service glass.",
+      "Measure ingredients.",
+      "Fill with cold dense ice.",
+      "Stir smoothly 20–25 seconds.",
+      "Strain cleanly."
+    ],
+    "commonMistakes": [
+      "Choppy stirring",
+      "Warm wet ice",
+      "Under-dilution"
+    ],
+    "sensoryGoal": "Clear, cold, silky",
+    "cocktails": [
+      "Martini",
+      "Manhattan",
+      "Negroni"
+    ],
+    "practiceExercise": "Stir water over ice and track dilution by weight."
+  },
+  {
+    "id": "muddle",
+    "name": "Muddle",
+    "whenUsed": "Press fruit, herbs, or sugar to release juice or aroma.",
+    "whyItWorks": "Extracts flavor mechanically.",
+    "equipment": [
+      "Muddler",
+      "sturdy glass or tin"
+    ],
+    "steps": [
+      "Add the ingredient to a stable vessel.",
+      "Press with controlled downward turns.",
+      "Stop when juice or aroma is released.",
+      "Add remaining ingredients.",
+      "Inspect for excessive pith or debris."
+    ],
+    "commonMistakes": [
+      "Pulverizing mint",
+      "Grinding bitter citrus pith",
+      "Muddling in fragile glass"
+    ],
+    "sensoryGoal": "Fresh extraction without harsh bitterness",
+    "cocktails": [
+      "Caipirinha",
+      "Mojito"
+    ],
+    "practiceExercise": "Muddle lime lightly and aggressively, then taste the bitterness difference."
+  },
+  {
+    "id": "roll",
+    "name": "Roll",
+    "whenUsed": "Pass a drink gently between two tins.",
+    "whyItWorks": "Combines thick savory ingredients without excessive foam.",
+    "equipment": [
+      "Two tins",
+      "jigger"
+    ],
+    "steps": [
+      "Measure ingredients into a tin.",
+      "Add ice.",
+      "Pour into second tin from a controlled height.",
+      "Repeat 3–4 times.",
+      "Pour or strain into service glass."
+    ],
+    "commonMistakes": [
+      "Throwing too high",
+      "Spilling",
+      "Over-aerating tomato"
+    ],
+    "sensoryGoal": "Integrated and smooth, not foamy",
+    "cocktails": [
+      "Bloody Mary"
+    ],
+    "practiceExercise": "Roll tomato juice and water, comparing texture to shaking."
+  },
+  {
+    "id": "throw",
+    "name": "Throw",
+    "whenUsed": "Pour a drink in a long controlled stream between tins.",
+    "whyItWorks": "Aerates and chills while creating a lighter texture than shaking.",
+    "equipment": [
+      "Two tins",
+      "strainer"
+    ],
+    "steps": [
+      "Load one tin with ice.",
+      "Hold receiving tin lower.",
+      "Pour in a controlled stream.",
+      "Repeat while keeping ice in one tin.",
+      "Strain and inspect."
+    ],
+    "commonMistakes": [
+      "Unsafe height",
+      "Losing ice control",
+      "Excessive splashing"
+    ],
+    "sensoryGoal": "Silky with gentle aeration",
+    "cocktails": [
+      "Select spirit-forward aperitif drinks"
+    ],
+    "practiceExercise": "Practice first with water over a sink."
+  },
+  {
+    "id": "blend",
+    "name": "Blend",
+    "whenUsed": "Process a drink with measured ice in a blender.",
+    "whyItWorks": "Creates a uniform frozen texture.",
+    "equipment": [
+      "Blender",
+      "jigger",
+      "measured scoop"
+    ],
+    "steps": [
+      "Add liquids first.",
+      "Add measured ice.",
+      "Blend briefly.",
+      "Check vortex and texture.",
+      "Pour immediately."
+    ],
+    "commonMistakes": [
+      "Unmeasured ice",
+      "Over-blending",
+      "Warm ingredients"
+    ],
+    "sensoryGoal": "Smooth, spoonable but drinkable",
+    "cocktails": [
+      "Piña Colada"
+    ],
+    "practiceExercise": "Blend identical recipes with different ice weights."
+  },
+  {
+    "id": "layer",
+    "name": "Layer",
+    "whenUsed": "Place liquids in visible bands based on density.",
+    "whyItWorks": "Creates visual separation.",
+    "equipment": [
+      "Bar spoon",
+      "pour spout",
+      "jigger"
+    ],
+    "steps": [
+      "Identify density order.",
+      "Add densest ingredient first.",
+      "Float next layer over a spoon.",
+      "Pour slowly near the surface.",
+      "Serve before diffusion erases layers."
+    ],
+    "commonMistakes": [
+      "Wrong density order",
+      "Pouring too fast",
+      "Warm ingredients"
+    ],
+    "sensoryGoal": "Distinct visual bands",
+    "cocktails": [
+      "Tequila Sunrise",
+      "layered shooters"
+    ],
+    "practiceExercise": "Practice with colored sugar syrups of different concentrations."
+  },
+  {
+    "id": "float",
+    "name": "Float",
+    "whenUsed": "Place a measured ingredient on top of a drink.",
+    "whyItWorks": "Concentrates aroma or creates a visual top layer.",
+    "equipment": [
+      "Bar spoon",
+      "jigger"
+    ],
+    "steps": [
+      "Complete the base drink.",
+      "Measure the float.",
+      "Hold spoon near surface.",
+      "Pour slowly over spoon.",
+      "Do not disturb before service."
+    ],
+    "commonMistakes": [
+      "Free-pouring",
+      "Pouring from height",
+      "Accidental full mixing"
+    ],
+    "sensoryGoal": "Aromatic top layer",
+    "cocktails": [
+      "Harvey Wallbanger",
+      "Dark ’n’ Stormy"
+    ],
+    "practiceExercise": "Float water dyed two colors over syrup."
+  },
+  {
+    "id": "rim",
+    "name": "Rim",
+    "whenUsed": "Apply salt, sugar, spice, or another coating to part of a glass edge.",
+    "whyItWorks": "Adds a controlled seasoning choice with each sip.",
+    "equipment": [
+      "Rimming tray",
+      "citrus wedge",
+      "clean glass"
+    ],
+    "steps": [
+      "Chill and dry the glass exterior.",
+      "Moisten only the desired section.",
+      "Dip or roll lightly.",
+      "Tap away excess.",
+      "Keep coating out of the drink."
+    ],
+    "commonMistakes": [
+      "Thick crust",
+      "Rimming the full glass without asking",
+      "Salt falling into drink"
+    ],
+    "sensoryGoal": "Even, light seasoning",
+    "cocktails": [
+      "Margarita",
+      "Lemon Drop"
+    ],
+    "practiceExercise": "Practice a clean half rim with no material inside the glass."
+  },
+  {
+    "id": "express-citrus",
+    "name": "Express Citrus Oils",
+    "whenUsed": "Release aromatic oils from a citrus peel over a finished drink.",
+    "whyItWorks": "Adds volatile aroma at the point of service.",
+    "equipment": [
+      "Peeler or knife",
+      "fresh citrus"
+    ],
+    "steps": [
+      "Cut a broad peel with little pith.",
+      "Hold skin side toward drink.",
+      "Pinch over surface.",
+      "Wipe rim only when appropriate.",
+      "Place or discard according to recipe."
+    ],
+    "commonMistakes": [
+      "Old dry peel",
+      "Aiming away from drink",
+      "Large bitter pith"
+    ],
+    "sensoryGoal": "Immediate fresh citrus aroma",
+    "cocktails": [
+      "Old Fashioned",
+      "Martini",
+      "Sazerac"
+    ],
+    "practiceExercise": "Express peels over water under a light to see the oil mist."
+  },
+  {
+    "id": "fine-strain",
+    "name": "Fine Strain",
+    "whenUsed": "Pass a drink through a fine mesh strainer.",
+    "whyItWorks": "Removes small ice, herb, fruit, or egg particles.",
+    "equipment": [
+      "Fine mesh strainer"
+    ],
+    "steps": [
+      "Place mesh over service glass.",
+      "Use primary strainer first.",
+      "Pour steadily.",
+      "Do not press pulp through.",
+      "Rinse immediately."
+    ],
+    "commonMistakes": [
+      "Clogging by dumping solids",
+      "Pressing bitter pulp",
+      "Slow warm service"
+    ],
+    "sensoryGoal": "Polished texture",
+    "cocktails": [
+      "Cosmopolitan",
+      "Daiquiri"
+    ],
+    "practiceExercise": "Shake mint with water and compare single vs fine strain."
+  },
+  {
+    "id": "double-strain",
+    "name": "Double Strain",
+    "whenUsed": "Use a Hawthorne and fine strainer together.",
+    "whyItWorks": "Produces a clean drink efficiently.",
+    "equipment": [
+      "Hawthorne strainer",
+      "fine mesh strainer"
+    ],
+    "steps": [
+      "Seat Hawthorne on tin.",
+      "Hold fine strainer over glass.",
+      "Pour through both.",
+      "Control closing gate as needed.",
+      "Clean strainers immediately."
+    ],
+    "commonMistakes": [
+      "Holding mesh too high",
+      "Slow trickle",
+      "Missing glass center"
+    ],
+    "sensoryGoal": "Clean, fragment-free texture",
+    "cocktails": [
+      "Egg-white sours",
+      "shaken up drinks"
+    ],
+    "practiceExercise": "Practice pouring accurately through both strainers."
+  },
+  {
+    "id": "swizzle",
+    "name": "Swizzle",
+    "whenUsed": "Rotate a swizzle stick rapidly through crushed ice.",
+    "whyItWorks": "Chills and dilutes tropical and julep-style drinks in the glass.",
+    "equipment": [
+      "Swizzle stick",
+      "crushed ice"
+    ],
+    "steps": [
+      "Build ingredients in glass.",
+      "Fill partly with crushed ice.",
+      "Swizzle between palms.",
+      "Add more ice as level falls.",
+      "Crown and garnish."
+    ],
+    "commonMistakes": [
+      "Using cube ice",
+      "No dilution check",
+      "Sparse crown"
+    ],
+    "sensoryGoal": "Frosted, very cold, integrated",
+    "cocktails": [
+      "Mojito",
+      "Mint Julep"
+    ],
+    "practiceExercise": "Swizzle water until the glass frosts and record the time."
+  }
+]

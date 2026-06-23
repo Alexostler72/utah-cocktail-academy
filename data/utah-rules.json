@@ -1,0 +1,261 @@
+{
+  "jurisdiction": "Utah",
+  "lastLegallyReviewed": "2026-06-23",
+  "reviewWarningAfterDays": 183,
+  "disclaimer": "Educational operational reference only. It supplements but does not replace approved alcohol-server training, current Utah law, DABS guidance, management instructions, or the establishment's license and policies.",
+  "limits": {
+    "primarySpiritMaxOz": 1.5,
+    "totalSpirituousLiquorMaxOz": 2.5,
+    "wineIndividualPortionMaxOz": 5,
+    "beerFlightMaxOz": 16
+  },
+  "classifications": {
+    "primary_spirit": "Primary spirituous liquor",
+    "secondary_spirit": "Secondary alcoholic flavoring ingredient",
+    "classification_uncertain": "Verify classification with Utah DABS or management",
+    "wine": "Wine",
+    "fortified_wine": "Fortified or aromatized wine",
+    "beer": "Beer",
+    "heavy_beer": "Heavy beer",
+    "flavored_malt_beverage": "Flavored malt beverage",
+    "mixer": "Nonalcoholic mixer",
+    "bitters": "Bitters",
+    "syrup": "Syrup",
+    "juice": "Juice"
+  },
+  "rules": [
+    {
+      "id": "primary-spirit-limit",
+      "ruleName": "Primary spirituous liquor limit",
+      "applicableLicenseTypes": [
+        "Retail licensees serving spirituous liquor"
+      ],
+      "beverageCategory": "Mixed beverage",
+      "numericLimit": 1.5,
+      "unit": "oz",
+      "effectiveDate": "2026-03-13",
+      "officialSource": "https://le.utah.gov/xcode/Title32B/Chapter5/32B-5-S304.html",
+      "dateLastVerified": "2026-06-23",
+      "notes": "Primary spirituous liquor generally may not exceed 1.5 ounces per beverage and is dispensed through an approved calibrated metered system.",
+      "exceptions": [
+        "Statutory exceptions exist for specified sealed low-ABV beverages and other listed uses."
+      ],
+      "verificationStatus": "Verified against current Utah Code"
+    },
+    {
+      "id": "total-spirit-limit",
+      "ruleName": "Total spirituous liquor limit",
+      "applicableLicenseTypes": [
+        "Retail licensees serving spirituous liquor"
+      ],
+      "beverageCategory": "Mixed beverage",
+      "numericLimit": 2.5,
+      "unit": "oz",
+      "effectiveDate": "2024-05-01",
+      "officialSource": "https://le.utah.gov/xcode/Title32B/Chapter4/32B-4-S422.html",
+      "dateLastVerified": "2026-06-23",
+      "notes": "A beverage may not contain more than 2.5 ounces total spirituous liquor, and patron possession limits also apply.",
+      "exceptions": [],
+      "verificationStatus": "Verified against current Utah Code"
+    },
+    {
+      "id": "wine-portion",
+      "ruleName": "Wine individual portion",
+      "applicableLicenseTypes": [
+        "Retail licensees authorized to serve wine"
+      ],
+      "beverageCategory": "Wine",
+      "numericLimit": 5,
+      "unit": "oz",
+      "effectiveDate": "2026-03-13",
+      "officialSource": "https://le.utah.gov/xcode/Title32B/Chapter5/32B-5-S304.html",
+      "dateLastVerified": "2026-06-23",
+      "notes": "Wine by the glass or individual portion generally may not exceed five ounces.",
+      "exceptions": [
+        "Container and table-service provisions differ."
+      ],
+      "verificationStatus": "Verified against current Utah Code"
+    },
+    {
+      "id": "restaurant-id",
+      "ruleName": "Restaurant proof-of-age verification",
+      "applicableLicenseTypes": [
+        "Full-service restaurant",
+        "Limited-service restaurant",
+        "Beer-only restaurant"
+      ],
+      "beverageCategory": "Alcohol purchase",
+      "numericLimit": 35,
+      "unit": "appears age or younger",
+      "effectiveDate": "2026-03-18",
+      "officialSource": "https://abs.utah.gov/changes-100-id-law-requirements/",
+      "dateLastVerified": "2026-06-23",
+      "notes": "Customers purchasing alcohol who appear 35 or younger must have ID checked and electronically scanned throughout the restaurant premises.",
+      "exceptions": [],
+      "verificationStatus": "Verified against current DABS update and Utah Code"
+    },
+    {
+      "id": "bar-id",
+      "ruleName": "Bar and tavern entry verification",
+      "applicableLicenseTypes": [
+        "Bar",
+        "Tavern"
+      ],
+      "beverageCategory": "Entry",
+      "numericLimit": 100,
+      "unit": "percent of entrants",
+      "effectiveDate": "2026-03-18",
+      "officialSource": "https://abs.utah.gov/changes-100-id-law-requirements/",
+      "dateLastVerified": "2026-06-23",
+      "notes": "Every ID must be checked and electronically scanned before entry. Utah-issued IDs must also be visually checked for 'No Alcohol Sale.'",
+      "exceptions": [],
+      "verificationStatus": "Verified against current DABS update"
+    },
+    {
+      "id": "foreign-id",
+      "ruleName": "Foreign driver licenses accepted",
+      "applicableLicenseTypes": [
+        "Applicable licensees"
+      ],
+      "beverageCategory": "Proof of age",
+      "numericLimit": null,
+      "unit": "",
+      "effectiveDate": "2026-05-06",
+      "officialSource": "https://abs.utah.gov/changes-100-id-law-requirements/",
+      "dateLastVerified": "2026-06-23",
+      "notes": "Foreign driver licenses became acceptable forms of identification effective May 6, 2026, subject to current proof-of-age requirements.",
+      "exceptions": [],
+      "verificationStatus": "Verified against current DABS update"
+    },
+    {
+      "id": "server-training",
+      "ruleName": "On-premise alcohol server training",
+      "applicableLicenseTypes": [
+        "Restaurants",
+        "Bars",
+        "Banquets",
+        "Public venues",
+        "Event permits and other on-premise service"
+      ],
+      "beverageCategory": "Training",
+      "numericLimit": 3,
+      "unit": "years",
+      "effectiveDate": "Current guidance",
+      "officialSource": "https://abs.utah.gov/licenses-permits/training/",
+      "dateLastVerified": "2026-06-23",
+      "notes": "Servers and managers who furnish on-premise alcohol must complete approved on-premise server training before beginning work and renew every three years. Separate manager training is required within 30 days of hire for managers.",
+      "exceptions": [],
+      "verificationStatus": "Verified against current DABS training page"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "measurement",
+      "title": "Measurements and Dispensing",
+      "plainLanguage": "The primary spirit is generally capped at 1.5 ounces and must usually pass through an approved calibrated metered system. Lawfully handled secondary flavoring ingredients may be added, but total spirituous liquor generally cannot exceed 2.5 ounces.",
+      "scenario": "A guest asks for a 2-ounce bourbon Old Fashioned.",
+      "correctResponse": "Use the establishment's approved Utah specification—typically no more than 1.5 ounces primary bourbon—and explain that an extra primary pour cannot be added to the same beverage.",
+      "commonMistake": "Treating the 2.5-ounce total as permission to pour 2.5 ounces of the same primary spirit.",
+      "licenseTypesAffected": [
+        "Retail licensees serving spirituous liquor"
+      ],
+      "effectiveDate": "2026-03-13",
+      "source": "https://le.utah.gov/xcode/Title32B/Chapter5/32B-5-S304.html"
+    },
+    {
+      "id": "classifications",
+      "title": "Primary, Secondary, Wine, and Beer",
+      "plainLanguage": "Do not count every alcoholic ingredient as the same category. Distilled primary liquor, lawfully designated secondary flavoring ingredients, wine, heavy beer, beer, and flavored malt beverages are treated differently.",
+      "scenario": "A recipe calls for tequila, orange liqueur, and vermouth.",
+      "correctResponse": "Classify each product using the establishment's approved setup and current DABS guidance; do not guess from flavor or ABV alone.",
+      "commonMistake": "Calling a second base spirit a flavoring just to fit a recipe.",
+      "licenseTypesAffected": [
+        "All affected on-premise licenses"
+      ],
+      "effectiveDate": "Current",
+      "source": "https://le.utah.gov/xcode/Title32B/Chapter5/32B-5-S304.html"
+    },
+    {
+      "id": "restaurants",
+      "title": "Restaurant Operations",
+      "plainLanguage": "Full-service restaurants may serve liquor, wine, heavy beer, and beer; limited-service restaurants are restricted to wine, heavy beer, and beer. Alcohol generally must be purchased with food, and license-specific hours and floor-plan restrictions apply.",
+      "scenario": "A restaurant guest orders only a cocktail and refuses food.",
+      "correctResponse": "Follow the restaurant's food-order procedure and management instruction before serving alcohol.",
+      "commonMistake": "Applying bar rules to a restaurant or assuming every restaurant license is full-service.",
+      "licenseTypesAffected": [
+        "Full-service",
+        "Limited-service",
+        "Beer-only restaurants"
+      ],
+      "effectiveDate": "Current",
+      "source": "https://abs.utah.gov/licenses-permits/applications-renewals/retail-licenses/"
+    },
+    {
+      "id": "ids",
+      "title": "Identification",
+      "plainLanguage": "Restaurants check and electronically scan customers purchasing alcohol who appear 35 or younger. Bars and taverns check and scan every entrant. Utah-issued IDs require a visual check for 'No Alcohol Sale.'",
+      "scenario": "A visibly elderly guest enters a bar without ID.",
+      "correctResponse": "Do not admit them; bars and taverns require 100% ID checks and scans regardless of appearance.",
+      "commonMistake": "Using the restaurant age-appearance rule at a bar.",
+      "licenseTypesAffected": [
+        "Restaurants",
+        "Bars",
+        "Taverns"
+      ],
+      "effectiveDate": "2026-03-18",
+      "source": "https://abs.utah.gov/changes-100-id-law-requirements/"
+    },
+    {
+      "id": "questionable-id",
+      "title": "Questionable Identification",
+      "plainLanguage": "Compare photo, birth date, physical description, expiration, tampering signs, and scanner result. A fake physical ID may be temporarily held while law enforcement is called under the conditions in current law.",
+      "scenario": "The photo does not resemble the presenter and the barcode fails.",
+      "correctResponse": "Refuse service, involve a manager, and follow current workplace and statutory procedure. Do not improvise a confrontation.",
+      "commonMistake": "Returning to service because the guest knows the address printed on the card.",
+      "licenseTypesAffected": [
+        "Applicable licensees"
+      ],
+      "effectiveDate": "2026-01-01 as amended in 2026",
+      "source": "https://le.utah.gov/xcode/Title32B/Chapter1/32B-1-S407.html"
+    },
+    {
+      "id": "service-judgment",
+      "title": "Over-Service and Illegal Requests",
+      "plainLanguage": "Never serve a minor, an intoxicated person, or an interdicted person. Do not reward a request for an illegal amount, and remember limits on how many spirituous-liquor beverages may be in front of a patron.",
+      "scenario": "A guest asks for another shot added to a Long Island.",
+      "correctResponse": "Decline the added shot and offer a compliant alternative, water, food, or a lower-alcohol option as appropriate.",
+      "commonMistake": "Thinking the guest's request shifts responsibility away from the server.",
+      "licenseTypesAffected": [
+        "All on-premise service"
+      ],
+      "effectiveDate": "Current",
+      "source": "https://le.utah.gov/xcode/Title32B/Chapter4/32B-4-S422.html"
+    },
+    {
+      "id": "training",
+      "title": "Required Training",
+      "plainLanguage": "Approved on-premise server training must be completed before beginning alcohol-service work and renewed every three years. Managers also have separate training requirements.",
+      "scenario": "A new bartender completed an in-house orientation but not an approved state course.",
+      "correctResponse": "They should not begin furnishing alcohol until the approved on-premise training requirement is satisfied.",
+      "commonMistake": "Treating this app or workplace orientation as state-approved certification.",
+      "licenseTypesAffected": [
+        "On-premise licensees and permits"
+      ],
+      "effectiveDate": "Current",
+      "source": "https://abs.utah.gov/licenses-permits/training/"
+    },
+    {
+      "id": "hours",
+      "title": "Service Hours and License Type",
+      "plainLanguage": "Hours vary by license. DABS currently lists full- and limited-service restaurant liquor, heavy beer, and wine service from 11:30 a.m. to midnight Monday–Friday, beginning 10:30 a.m. on weekends, legal holidays, and private parties; beer may continue until 1:00 a.m. Verify the exact license before service.",
+      "scenario": "A restaurant guest requests a whiskey cocktail at 12:15 a.m.",
+      "correctResponse": "Do not serve liquor after the restaurant liquor service cutoff; check whether beer service remains lawful and whether workplace policy is stricter.",
+      "commonMistake": "Using bar hours at a restaurant.",
+      "licenseTypesAffected": [
+        "Restaurants"
+      ],
+      "effectiveDate": "Current DABS license guidance",
+      "source": "https://abs.utah.gov/licenses-permits/applications-renewals/retail-licenses/"
+    }
+  ]
+}

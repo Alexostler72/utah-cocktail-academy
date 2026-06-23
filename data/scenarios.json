@@ -1,0 +1,422 @@
+[
+  {
+    "id": "old-fashioned-order",
+    "guestRequest": "Can I get an Old Fashioned?",
+    "correctDrinkId": "old-fashioned",
+    "options": [
+      "old-fashioned",
+      "margarita",
+      "paloma",
+      "mojito"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "Use the Utah build, measured primary whiskey, and explain only if asked why the pour differs from a national two-ounce spec.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "refreshing-not-sweet",
+    "guestRequest": "I want something refreshing but not too sweet.",
+    "correctDrinkId": "paloma",
+    "options": [
+      "paloma",
+      "old-fashioned",
+      "margarita",
+      "mojito"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "Recommend a Paloma with controlled grapefruit sweetness and fresh lime; clarify spirit preference if needed.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "vodka-cranberry",
+    "guestRequest": "A vodka drink with cranberry.",
+    "correctDrinkId": "cape-codder",
+    "options": [
+      "cape-codder",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "A Cape Codder is the direct fit; ask whether they want lime.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "whiskey-negroni",
+    "guestRequest": "What’s like a Negroni but with whiskey?",
+    "correctDrinkId": "boulevardier",
+    "options": [
+      "boulevardier",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "Recommend a Boulevardier and describe it as richer and warmer.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "strong-long-island",
+    "guestRequest": "Make me a strong Long Island.",
+    "correctDrinkId": "long-island",
+    "options": [
+      "long-island",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "refuse_or_modify",
+    "feedback": "Use only the approved Utah house specification; do not add liquor beyond it.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "extra-shot",
+    "guestRequest": "Can you add another shot to that Margarita?",
+    "correctDrinkId": "margarita",
+    "options": [
+      "margarita",
+      "old-fashioned",
+      "paloma",
+      "mojito"
+    ],
+    "requiredJudgment": "refuse_or_modify",
+    "feedback": "Decline the extra primary pour and offer the compliant drink as specified.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "dirty-martini",
+    "guestRequest": "Vodka martini, dirty, extra cold.",
+    "correctDrinkId": "dirty-martini",
+    "options": [
+      "dirty-martini",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "Clarify desired dryness if house policy requires, use the Utah primary limit, and stir or shake per guest/house instruction.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "brunch-savory",
+    "guestRequest": "Something savory for brunch.",
+    "correctDrinkId": "bloody-mary",
+    "options": [
+      "bloody-mary",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "Recommend a Bloody Mary and ask about spice level.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "rum-refreshing",
+    "guestRequest": "I want rum, lime, mint, and bubbles.",
+    "correctDrinkId": "mojito",
+    "options": [
+      "mojito",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "A Mojito fits; use gentle mint handling and full crushed ice.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "no-alcohol-minty",
+    "guestRequest": "I’m not drinking, but I want something minty.",
+    "correctDrinkId": "nojito",
+    "options": [
+      "nojito",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "Offer a Nojito and keep all tools and ingredients appropriate for the guest's needs.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "tequila-grapefruit",
+    "guestRequest": "Tequila and grapefruit, tall.",
+    "correctDrinkId": "paloma",
+    "options": [
+      "paloma",
+      "old-fashioned",
+      "margarita",
+      "mojito"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "Build a Paloma with the approved tequila amount.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "coffee-cocktail",
+    "guestRequest": "I need something with espresso.",
+    "correctDrinkId": "espresso-martini",
+    "options": [
+      "espresso-martini",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "Recommend an Espresso Martini and warn that it contains both alcohol and caffeine only if relevant to house practice.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "whiskey-hot",
+    "guestRequest": "Something warm with whiskey and honey.",
+    "correctDrinkId": "hot-toddy",
+    "options": [
+      "hot-toddy",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "A Hot Toddy fits.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "gin-bubbles",
+    "guestRequest": "Gin, lemon, and sparkling wine.",
+    "correctDrinkId": "french-75",
+    "options": [
+      "french-75",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "A French 75 fits; shake only the sour base and top with sparkling wine.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "pineapple-cranberry",
+    "guestRequest": "Vodka, cranberry, pineapple.",
+    "correctDrinkId": "bay-breeze",
+    "options": [
+      "bay-breeze",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "A Bay Breeze fits; distinguish it from the grapefruit-based Sea Breeze.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "grapefruit-cranberry",
+    "guestRequest": "Vodka, cranberry, grapefruit.",
+    "correctDrinkId": "sea-breeze",
+    "options": [
+      "sea-breeze",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "A Sea Breeze fits.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "cognac-citrus",
+    "guestRequest": "A brandy drink that’s tart and served up.",
+    "correctDrinkId": "sidecar",
+    "options": [
+      "sidecar",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "Recommend a Sidecar.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "almond-sour",
+    "guestRequest": "An almond-flavored sour, but balanced.",
+    "correctDrinkId": "amaretto-sour",
+    "options": [
+      "amaretto-sour",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "serve_or_clarify",
+    "feedback": "Use the management-approved Utah classification and spec; fresh lemon and bourbon structure prevent cloying sweetness.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "bar-no-id",
+    "guestRequest": "I forgot my ID, but I’m obviously 50. Can I come into the bar?",
+    "correctDrinkId": "refuse-entry",
+    "options": [
+      "refuse-entry",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "refuse_or_modify",
+    "feedback": "Bars and taverns require every entrant's ID to be checked and electronically scanned.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  },
+  {
+    "id": "intoxicated-request",
+    "guestRequest": "One more whiskey—make it a double.",
+    "correctDrinkId": "refuse-service",
+    "options": [
+      "refuse-service",
+      "old-fashioned",
+      "margarita",
+      "paloma"
+    ],
+    "requiredJudgment": "refuse_or_modify",
+    "feedback": "Refuse further alcohol service, involve a manager, and follow the establishment's over-service procedure.",
+    "scores": {
+      "recipe": 20,
+      "compliance": 25,
+      "technique": 15,
+      "speed": 10,
+      "communication": 20,
+      "waste": 10
+    }
+  }
+]
